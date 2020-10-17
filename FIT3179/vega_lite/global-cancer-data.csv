@@ -1,18 +1,18 @@
-ISO code,Population,Value
+ISO code,Country,Value
 AUS,Australia,468
-NZL,NewZealand,438.1
+NZL,New Zealand,438.1
 IRL,Ireland,373.7
 HUN,Hungary,368.1
-USA,UnitedStatesofAmerica,352.2
+USA,United States of America,352.2
 BEL,Belgium,345.8
 FRA,France,344.1
 DNK,Denmark,340.4
 NOR,Norway,337.8
-NLD,TheNetherlands,334.1
+NLD,Netherlands,334.1
 CAN,Canada,334
-NCL,"France,NewCaledonia",324.2
-GBR,UnitedKingdom,319.2
-KOR,"Korea,Republicof",313.5
+NCL,France,324.2
+GBR,United Kingdom,319.2
+KOR,"Korea, South",313.5
 DEU,Germany,313.1
 CHE,Switzerland,311
 LUX,Luxembourg,309.3
@@ -33,49 +33,49 @@ URY,Uruguay,263.4
 BLR,Belarus,260.7
 PRT,Portugal,259.5
 ISL,Iceland,257.8
-GLP,"France,Guadeloupe",254.6
-PRI,PuertoRico,254.5
-MDA,RepublicofMoldova,254.3
+GLP,Guadeloupe,254.6
+PRI,Puerta Rico,254.5
+MDA,Moldova,254.3
 POL,Poland,253.8
-MTQ,"France,Martinique",250.8
+MTQ,Martinique,250.8
 CYP,Cyprus,250.8
 MLT,Malta,249.4
 SGP,Singapore,248.9
 JPN,Japan,248
 AUT,Austria,247.7
 BRB,Barbados,247.5
-GUF,FrenchGuiana,247
+GUF,French Guiana,247
 LBN,Lebanon,242.8
 BGR,Bulgaria,242.8
-PYF,FrenchPolynesia,240.6
+PYF,French Polynesia,240.6
 ISR,Israel,233.5
-MKD,TheformerYugoslavRepublicofMacedonia,230.8
+MKD,North Macedonia,230.8
 MNG,Mongolia,229.2
 TUR,Turkey,225.1
 ROU,Romania,222.4
-RUS,RussianFederation,222.1
+RUS,Russia,222.1
 MNE,Montenegro,221.9
 UKR,Ukraine,220.9
-BIH,BosniaandHerzegovina,220.3
+BIH,Bosnia and Herzegovina,220.3
 BRN,Brunei,220.2
 ARG,Argentina,218
 BRA,Brazil,217.2
 CUB,Cuba,216.5
-REU,"France,LaRéunion",213.9
-ZAF,SouthAfrica,213.5
+REU,Réunion,213.9
+ZAF,South Africa,213.5
 WSM,Samoa,207.4
 JAM,Jamaica,203.7
-PNG,PapuaNewGuinea,202.4
+PNG,Papua New Guinea,202.4
 CHN,China,201.7
-CRI,CostaRica,197.7
+CRI,Costa Rica,197.7
 ZWE,Zimbabwe,197.5
 CHL,Chile,195.5
 ARM,Armenia,194.8
 PER,Peru,192.6
-VEN,"Venezuela,BolivarianRepublicof",187.5
+VEN,Venezuela,187.5
 BHS,Bahamas,181.4
 COL,Colombia,178.8
-TTO,TrinidadandTobago,177.4
+TTO,Trinidad and Tobago,177.4
 GUA,Guam,177.2
 KEN,Kenya,175.5
 PRY,Paraguay,175.5
@@ -83,30 +83,30 @@ ALB,Albania,173.9
 PAN,Panama,173
 SUR,Suriname,172.6
 KAZ,Kazakhstan,170.1
-SYR,SyrianArabRepublic,169.9
+SYR,Syria,169.9
 MWI,Malawi,166.3
 FJI,Fiji,164
-DOM,DominicanRepublic,163.9
+DOM,Dominican Republic,163.9
 PHL,Philippines,163.3
-PRK,"Korea,DemocraticRepublicof",161.7
-PSE,GazaStripandWestBank,158.6
+PRK,North Korea,161.7
+PSE,West Bank and Gaza,158.6
 THA,Thailand,158.2
 JOR,Jordan,157.8
-LCA,SaintLucia,157.7
+LCA,Saint Lucia,157.7
 ECU,Ecuador,157.2
 EGY,Egypt,156.9
-LAO,LaoPeople'sDemocraticRepublic,154.3
+LAO,Laos,154.3
 MUS,Mauritius,153.2
 UGA,Uganda,151.4
 VNM,VietNam,151.4
-CPV,CaboVerde,149
+CPV,Cabo Verde,149
 GEO,Georgia,143.2
-BOL,"Bolivia,PlurinationalStateof",142.9
+BOL,Bolivia,142.9
 MEX,Mexico,142.7
 HTI,Haiti,142.3
-SLV,ElSalvador,142.1
+SLV,El Salvador,142.1
 BDI,Burundi,141.9
-IRN,"Iran,IslamicRepublicof",141.6
+IRN,Iran,141.6
 NIC,Nicaragua,141
 MYS,Malaysia,139.9
 MAR,Morocco,139.6
@@ -116,9 +116,9 @@ ZMB,Zambia,136.2
 MLI,Mali,135.5
 HND,Honduras,134.6
 BLZ,Belize,132.4
-TZA,"Tanzania,UnitedRepublicof",131.6
+TZA,Tanzania,131.6
 MOZ,Mozambique,131
-MMR,Myanmar,130.9
+MMR,Burma,130.9
 DZA,Algeria,130.8
 NAM,Namibia,129.2
 KGZ,Kyrgyzstan,128.8
@@ -130,23 +130,23 @@ KHM,Cambodia,124
 KWT,Kuwait,121.8
 SOM,Somalia,120.8
 LBY,Libya,120.3
-SSD,SouthSudan,119.9
+SSD,South Sudan,119.9
 SEN,Senegal,118.7
-SLB,SolomonIslands,118
+SLB,Solomon Islands,118
 TKM,Turkmenistan,117.8
-BFA,BurkinaFaso,117.7
+BFA,Burkina Faso,117.7
 MDV,Maldives,117
 LSO,Lesotho,116.8
 TUN,Tunisia,115.4
 MDG,Madagascar,115.3
 PAK,Pakistan,114
-STP,SaoTomeandPrincipe,113
-ARE,UnitedArabEmirates,112.5
+STP,Sao Tome and Principe,113
+ARE,United Arab Emirates,112.5
 GAB,Gabon,111.2
-CIV,Côted'Ivoire,109.2
+CIV,Cote d'Ivoire,109.2
 CMR,Cameroon,107.5
 AGO,Angola,107
-COD,"Congo,DemocraticRepublicof",106.6
+COD,Congo (Kinshasa),106.6
 AZE,Azerbaijan,106.2
 BGD,Bangladesh,105.7
 IRQ,Iraq,105.5
@@ -159,8 +159,8 @@ NGA,Nigeria,103.8
 NPL,Nepal,103.7
 BWA,Botswana,103.6
 OMN,Oman,103.3
-GNQ,EquatorialGuinea,101.6
-SLE,SierraLeone,101
+GNQ,Equatorial Guinea,101.6
+SLE,Sierra Leone,101
 GIN,Guinea,100.5
 AFG,Afghanistan,100.2
 COM,Comoros,99.8
@@ -171,16 +171,16 @@ QAT,Qatar,97.3
 GNB,Guinea-Bissau,97
 SDN,Sudan,95.9
 TCD,Chad,95.4
-CAF,CentralAfricanRepublic,92.4
+CAF,Central African Republic,92.4
 UZB,Uzbekistan,91.4
 IND,India,89.4
-SAU,SaudiArabia,88.7
-LKA,SriLanka,88.1
+SAU,Saudi Arabia,88.7
+LKA,Sri Lanka,88.1
 DJI,Djibouti,87.9
 BTN,Bhutan,87.8
 TJK,Tajikistan,87.3
 TLS,Timor-Leste,84.3
-COG,"Congo,Republicof",76.9
+COG,Democratic Republic of the Congo,76.9
 YEM,Yemen,76.1
 NER,Niger,72.6
-GMB,TheRepublicoftheGambia,57.2
+GMB,Gambia,57.2
