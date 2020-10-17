@@ -1,186 +1,186 @@
-ISO code,Country,Value
-AUS,Australia,468
-NZL,New Zealand,438.1
-IRL,Ireland,373.7
-HUN,Hungary,368.1
-USA,United States of America,352.2
-BEL,Belgium,345.8
-FRA,France,344.1
-DNK,Denmark,340.4
-NOR,Norway,337.8
-NLD,Netherlands,334.1
-CAN,Canada,334
-NCL,France,324.2
-GBR,United Kingdom,319.2
-KOR,"Korea, South",313.5
-DEU,Germany,313.1
-CHE,Switzerland,311
-LUX,Luxembourg,309.3
-SRB,Serbia,307.8
-SVN,Slovenia,304.9
-LVA,Latvia,302.2
-SVK,Slovakia,297.5
-CZE,Czechia,296.7
-SWE,Sweden,294.7
-ITA,Italy,290.6
-HRV,Croatia,287.2
-LTU,Lithuania,285.8
-EST,Estonia,283.3
-GRC,Greece,279.8
-ESP,Spain,272.3
-FIN,Finland,266.3
-URY,Uruguay,263.4
-BLR,Belarus,260.7
-PRT,Portugal,259.5
-ISL,Iceland,257.8
-GLP,Guadeloupe,254.6
-PRI,Puerta Rico,254.5
-MDA,Moldova,254.3
-POL,Poland,253.8
-MTQ,Martinique,250.8
-CYP,Cyprus,250.8
-MLT,Malta,249.4
-SGP,Singapore,248.9
-JPN,Japan,248
-AUT,Austria,247.7
-BRB,Barbados,247.5
-GUF,French Guiana,247
-LBN,Lebanon,242.8
-BGR,Bulgaria,242.8
-PYF,French Polynesia,240.6
-ISR,Israel,233.5
-MKD,North Macedonia,230.8
-MNG,Mongolia,229.2
-TUR,Turkey,225.1
-ROU,Romania,222.4
-RUS,Russia,222.1
-MNE,Montenegro,221.9
-UKR,Ukraine,220.9
-BIH,Bosnia and Herzegovina,220.3
-BRN,Brunei,220.2
-ARG,Argentina,218
-BRA,Brazil,217.2
-CUB,Cuba,216.5
-REU,Réunion,213.9
-ZAF,South Africa,213.5
-WSM,Samoa,207.4
-JAM,Jamaica,203.7
-PNG,Papua New Guinea,202.4
-CHN,China,201.7
-CRI,Costa Rica,197.7
-ZWE,Zimbabwe,197.5
-CHL,Chile,195.5
-ARM,Armenia,194.8
-PER,Peru,192.6
-VEN,Venezuela,187.5
-BHS,Bahamas,181.4
-COL,Colombia,178.8
-TTO,Trinidad and Tobago,177.4
-GUA,Guam,177.2
-KEN,Kenya,175.5
-PRY,Paraguay,175.5
-ALB,Albania,173.9
-PAN,Panama,173
-SUR,Suriname,172.6
-KAZ,Kazakhstan,170.1
-SYR,Syria,169.9
-MWI,Malawi,166.3
-FJI,Fiji,164
-DOM,Dominican Republic,163.9
-PHL,Philippines,163.3
-PRK,North Korea,161.7
-PSE,West Bank and Gaza,158.6
-THA,Thailand,158.2
-JOR,Jordan,157.8
-LCA,Saint Lucia,157.7
-ECU,Ecuador,157.2
-EGY,Egypt,156.9
-LAO,Laos,154.3
-MUS,Mauritius,153.2
-UGA,Uganda,151.4
-VNM,VietNam,151.4
-CPV,Cabo Verde,149
-GEO,Georgia,143.2
-BOL,Bolivia,142.9
-MEX,Mexico,142.7
-HTI,Haiti,142.3
-SLV,El Salvador,142.1
-BDI,Burundi,141.9
-IRN,Iran,141.6
-NIC,Nicaragua,141
-MYS,Malaysia,139.9
-MAR,Morocco,139.6
-RWA,Rwanda,136.4
-IDN,Indonesia,136.2
-ZMB,Zambia,136.2
-MLI,Mali,135.5
-HND,Honduras,134.6
-BLZ,Belize,132.4
-TZA,Tanzania,131.6
-MOZ,Mozambique,131
-MMR,Burma,130.9
-DZA,Algeria,130.8
-NAM,Namibia,129.2
-KGZ,Kyrgyzstan,128.8
-GTM,Guatemala,126.9
-BEN,Benin,126.2
-GHA,Ghana,125.5
-SWZ,Eswatini,125.1
-KHM,Cambodia,124
-KWT,Kuwait,121.8
-SOM,Somalia,120.8
-LBY,Libya,120.3
-SSD,South Sudan,119.9
-SEN,Senegal,118.7
-SLB,Solomon Islands,118
-TKM,Turkmenistan,117.8
-BFA,Burkina Faso,117.7
-MDV,Maldives,117
-LSO,Lesotho,116.8
-TUN,Tunisia,115.4
-MDG,Madagascar,115.3
-PAK,Pakistan,114
-STP,Sao Tome and Principe,113
-ARE,United Arab Emirates,112.5
-GAB,Gabon,111.2
-CIV,Cote d'Ivoire,109.2
-CMR,Cameroon,107.5
-AGO,Angola,107
-COD,Congo (Kinshasa),106.6
-AZE,Azerbaijan,106.2
-BGD,Bangladesh,105.7
-IRQ,Iraq,105.5
-GUY,Guyana,105.4
-BHR,Bahrain,105.2
-TGO,Togo,105
-LBR,Liberia,104
-VUT,Vanuatu,104
-NGA,Nigeria,103.8
-NPL,Nepal,103.7
-BWA,Botswana,103.6
-OMN,Oman,103.3
-GNQ,Equatorial Guinea,101.6
-SLE,Sierra Leone,101
-GIN,Guinea,100.5
-AFG,Afghanistan,100.2
-COM,Comoros,99.8
-ETH,Ethiopia,99.5
-MRT,Mauritania,98.5
-ERI,Eritrea,97.7
-QAT,Qatar,97.3
-GNB,Guinea-Bissau,97
-SDN,Sudan,95.9
-TCD,Chad,95.4
-CAF,Central African Republic,92.4
-UZB,Uzbekistan,91.4
-IND,India,89.4
-SAU,Saudi Arabia,88.7
-LKA,Sri Lanka,88.1
-DJI,Djibouti,87.9
-BTN,Bhutan,87.8
-TJK,Tajikistan,87.3
-TLS,Timor-Leste,84.3
-COG,Democratic Republic of the Congo,76.9
-YEM,Yemen,76.1
-NER,Niger,72.6
-GMB,Gambia,57.2
+Country,Value
+Australia,468
+New Zealand,438.1
+Ireland,373.7
+Hungary,368.1
+United States of America,352.2
+Belgium,345.8
+France,344.1
+Denmark,340.4
+Norway,337.8
+Netherlands,334.1
+Canada,334
+France,324.2
+United Kingdom,319.2
+"Korea, South",313.5
+Germany,313.1
+Switzerland,311
+Luxembourg,309.3
+Serbia,307.8
+Slovenia,304.9
+Latvia,302.2
+Slovakia,297.5
+Czechia,296.7
+Sweden,294.7
+Italy,290.6
+Croatia,287.2
+Lithuania,285.8
+Estonia,283.3
+Greece,279.8
+Spain,272.3
+Finland,266.3
+Uruguay,263.4
+Belarus,260.7
+Portugal,259.5
+Iceland,257.8
+Guadeloupe,254.6
+Puerta Rico,254.5
+Moldova,254.3
+Poland,253.8
+Martinique,250.8
+Cyprus,250.8
+Malta,249.4
+Singapore,248.9
+Japan,248
+Austria,247.7
+Barbados,247.5
+French Guiana,247
+Lebanon,242.8
+Bulgaria,242.8
+French Polynesia,240.6
+Israel,233.5
+North Macedonia,230.8
+Mongolia,229.2
+Turkey,225.1
+Romania,222.4
+Russia,222.1
+Montenegro,221.9
+Ukraine,220.9
+Bosnia and Herzegovina,220.3
+Brunei,220.2
+Argentina,218
+Brazil,217.2
+Cuba,216.5
+Réunion,213.9
+South Africa,213.5
+Samoa,207.4
+Jamaica,203.7
+Papua New Guinea,202.4
+China,201.7
+Costa Rica,197.7
+Zimbabwe,197.5
+Chile,195.5
+Armenia,194.8
+Peru,192.6
+Venezuela,187.5
+Bahamas,181.4
+Colombia,178.8
+Trinidad and Tobago,177.4
+Guam,177.2
+Kenya,175.5
+Paraguay,175.5
+Albania,173.9
+Panama,173
+Suriname,172.6
+Kazakhstan,170.1
+Syria,169.9
+Malawi,166.3
+Fiji,164
+Dominican Republic,163.9
+Philippines,163.3
+North Korea,161.7
+West Bank and Gaza,158.6
+Thailand,158.2
+Jordan,157.8
+Saint Lucia,157.7
+Ecuador,157.2
+Egypt,156.9
+Laos,154.3
+Mauritius,153.2
+Uganda,151.4
+VietNam,151.4
+Cabo Verde,149
+Georgia,143.2
+Bolivia,142.9
+Mexico,142.7
+Haiti,142.3
+El Salvador,142.1
+Burundi,141.9
+Iran,141.6
+Nicaragua,141
+Malaysia,139.9
+Morocco,139.6
+Rwanda,136.4
+Indonesia,136.2
+Zambia,136.2
+Mali,135.5
+Honduras,134.6
+Belize,132.4
+Tanzania,131.6
+Mozambique,131
+Burma,130.9
+Algeria,130.8
+Namibia,129.2
+Kyrgyzstan,128.8
+Guatemala,126.9
+Benin,126.2
+Ghana,125.5
+Eswatini,125.1
+Cambodia,124
+Kuwait,121.8
+Somalia,120.8
+Libya,120.3
+South Sudan,119.9
+Senegal,118.7
+Solomon Islands,118
+Turkmenistan,117.8
+Burkina Faso,117.7
+Maldives,117
+Lesotho,116.8
+Tunisia,115.4
+Madagascar,115.3
+Pakistan,114
+Sao Tome and Principe,113
+United Arab Emirates,112.5
+Gabon,111.2
+Cote d'Ivoire,109.2
+Cameroon,107.5
+Angola,107
+Congo (Kinshasa),106.6
+Azerbaijan,106.2
+Bangladesh,105.7
+Iraq,105.5
+Guyana,105.4
+Bahrain,105.2
+Togo,105
+Liberia,104
+Vanuatu,104
+Nigeria,103.8
+Nepal,103.7
+Botswana,103.6
+Oman,103.3
+Equatorial Guinea,101.6
+Sierra Leone,101
+Guinea,100.5
+Afghanistan,100.2
+Comoros,99.8
+Ethiopia,99.5
+Mauritania,98.5
+Eritrea,97.7
+Qatar,97.3
+Guinea-Bissau,97
+Sudan,95.9
+Chad,95.4
+Central African Republic,92.4
+Uzbekistan,91.4
+India,89.4
+Saudi Arabia,88.7
+Sri Lanka,88.1
+Djibouti,87.9
+Bhutan,87.8
+Tajikistan,87.3
+Timor-Leste,84.3
+Democratic Republic of the Congo,76.9
+Yemen,76.1
+Niger,72.6
+Gambia,57.2
