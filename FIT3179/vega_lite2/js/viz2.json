@@ -36,6 +36,5 @@
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
       {"field": "Rate", "type": "quantitative"}
     ]
-  },
-  "config": {}
+  }
 }
