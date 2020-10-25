@@ -9,13 +9,29 @@
 </head>
 <body>
 
-<div id="vis"></div>
+<h1>An Example of Multiple Visualisations</h1>
+
+<h2>This is the first visualisation</h2>
+<div id="scatterplot"></div>
+
+<h2>This is the second visualisation</h2>
+<div id="choroplethmap"></div>
 
 <script type="text/javascript">
-  var spec = "https://rp-mon.github.io/FIT3179/vega_lite2/viz.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+
+  var vis1 = "js/viz.json";
+  
+  vegaEmbed('#scatterplot', vis1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
+  
+  var vis2 = "js/viz2.json";
+  
+  vegaEmbed('#choroplethmap', vis2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
 </script>
+
 </body>
 </html>
