@@ -36,39 +36,36 @@
       "name": "selectDev",
       "bind": {
         "input": "select",
-        "options": [
-          null,
-          "Developed",
-          "Developing"
-        ],
-        "labels": [
-          "Show Both",
-          "Developed",
-          "Developing"
-        ],
+        "options": [null, "Developed", "Developing"],
+        "labels": ["Show Both", "Developed", "Developing"],
         "name": "Development Selection: "
       }
     }
   ],
+  "transform": [
+        {"filter": "selectCont == null || datum.Continent == selectCont"},
+        {
+          "filter": "selectDev == null || datum['Development Index'] == selectDev"
+        }
+      ],
+  "encoding": {
+    "x": {
+      "field": "HDI",
+      "type": "quantitative",
+      "title": "Human Development Index (HDI)",
+      "scale": {"domain": [0.3, 1]}
+    },
+    "y": {
+      "field": "Amount",
+      "type": "quantitative",
+      "title": "Cancer rate",
+      "scale": {"domain": [0, 500]}
+    }
+  },
   "layer": [
     {
-      "transform": [
-        {"filter": "selectCont == null || datum.Continent == selectCont"}, {"filter": "selectDev == null || datum['Development Index'] == selectDev"}
-      ],
       "mark": "circle",
       "encoding": {
-        "x": {
-          "field": "HDI",
-          "type": "quantitative",
-          "title": "Human Development Index (HDI)",
-          "scale": {"domain": [0.3, 1]}
-        },
-        "y": {
-          "field": "Amount",
-          "type": "quantitative",
-          "title": "Cancer rate",
-          "scale": {"domain": [0, 500]}
-        },
         "color": {"field": "Continent", "type": "nominal"},
         "tooltip": [
           {"field": "Country", "type": "nominal"},
@@ -92,10 +89,16 @@
         "text": {"field": "Country", "type": "nominal"},
         "color": {"value": "black"},
         "opacity": {
-          "condition": {"test": "datum['Country'] == 'Australia'", "value": 1},
+          "condition": {"test": "datum['Country'] == 'Australia' || datum['Country'] == 'United States of America' || datum['Country'] == 'Kuwait' || datum['Country'] == 'Gambia' || datum['Country'] == 'Kenya'", "value": 1},
           "value": 0
         },
-        "tooltip": [{"field": "Country", "type": "nominal"}]
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Continent", "type": "nominal"},
+          {"field": "Development Index", "type": "nominal"},
+          {"field": "Amount", "type": "quantitative"},
+          {"field": "HDI", "type": "quantitative"}
+        ]
       }
     }
   ]

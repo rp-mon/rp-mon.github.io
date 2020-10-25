@@ -1,0 +1,187 @@
+Country,Amount,Continent,Development Index
+Australia,468.1,Oceania,Developed
+New Zealand,438.1,Oceania,Developed
+Ireland,373.7,Europe,Developed
+Hungary,368.1,Europe,Developed
+United States of America,352.2,North America,Developed
+Belgium,345.8,Europe,Developed
+France,344.1,Europe,Developed
+Denmark,340.4,Europe,Developed
+Norway,337.8,Europe,Developed
+Netherlands,334.1,Europe,Developed
+Canada,334.1,North America,Developed
+New Caledonia,324.2,Oceania,Developing
+United Kingdom,319.2,Europe,Developed
+South Korea,313.5,Asia,Developed
+Germany,313.1,Europe,Developed
+Switzerland,311.1,Europe,Developed
+Luxembourg,309.3,Europe,Developed
+Serbia,307.8,Europe,Developing
+Slovenia,304.9,Europe,Developed
+Latvia,302.2,Europe,Developed
+Slovakia,297.5,Europe,Developed
+Czechia,296.7,Europe,Developed
+Sweden,294.7,Europe,Developed
+Italy,290.6,Europe,Developed
+Croatia,287.2,Europe,Developing
+Lithuania,285.8,Europe,Developed
+Estonia,283.3,Europe,Developed
+Greece,279.8,Europe,Developed
+Spain,272.3,Europe,Developed
+Finland,266.3,Europe,Developed
+Uruguay,263.4,South America,Developing
+Belarus,260.7,Europe,Developing
+Portugal,259.5,Europe,Developed
+Iceland,257.8,Europe,Developed
+Guadeloupe,254.6,North America,Developing
+Puerto Rico,254.5,North America,Developing
+Moldova,254.3,Europe,Developing
+Poland,253.8,Europe,Developed
+Martinique,250.8,North America,Developing
+Cyprus,250.8,Asia,Developed
+Malta,249.4,Europe,Developed
+Singapore,248.9,Asia,Developed
+Japan,248.1,Asia,Developed
+Austria,247.7,Europe,Developed
+Barbados,247.5,North America,Developing
+French Guiana,247.1,South America,Developing
+Lebanon,242.8,Asia,Developing
+Bulgaria,242.8,Europe,Developing
+French Polynesia,240.6,Oceania,Developing
+Israel,233.5,Asia,Developed
+Macedonia,230.8,Europe,Developing
+Mongolia,229.2,Asia,Developing
+Turkey,225.1,Asia,Developing
+Romania,222.4,Europe,Developing
+Russia,222.1,Europe,Developing
+Montenegro,221.9,Europe,Developing
+Ukraine,220.9,Europe,Developing
+Bosnia and Herz.,220.3,Europe,Developing
+Brunei,220.2,Asia,Developing
+Argentina,218.1,South America,Developing
+Brazil,217.2,South America,Developing
+Cuba,216.5,North America,Developing
+Réunion,213.9,Africa,Developing
+South Africa,213.5,Africa,Developing
+Samoa,207.4,Oceania,Developing
+Jamaica,203.7,North America,Developing
+Papua New Guinea,202.4,Oceania,Developing
+China,201.7,Asia,Developing
+Costa Rica,197.7,North America,Developing
+Zimbabwe,197.5,Africa,Developing
+Chile,195.5,South America,Developed
+Armenia,194.8,Asia,Developing
+Peru,192.6,South America,Developing
+Venezuela,187.5,South America,Developing
+Bahamas,181.4,North America,Developing
+Colombia,178.8,South America,Developing
+Trinidad and Tobago,177.4,North America,Developing
+Guam,177.2,Oceania,Developing
+Kenya,175.5,Africa,Developing
+Paraguay,175.5,South America,Developing
+Albania,173.9,Europe,Developing
+Panama,173.1,North America,Developing
+Suriname,172.6,South America,Developing
+Kazakhstan,170.1,Asia,Developing
+Syria,169.9,Asia,Developing
+Malawi,166.3,Africa,Developing
+Fiji,164.1,Oceania,Developing
+Dominican Rep.,163.9,North America,Developing
+Philippines,163.3,Asia,Developing
+North Korea,161.7,Asia,Developing
+West Bank and Gaza,158.6,Asia,Developing
+Thailand,158.2,Asia,Developing
+Jordan,157.8,Asia,Developing
+Saint Lucia,157.7,North America,Developing
+Ecuador,157.2,South America,Developing
+Egypt,156.9,Africa,Developing
+Laos,154.3,Asia,Developing
+Mauritius,153.2,Africa,Developing
+Uganda,151.4,Africa,Developing
+Vietnam,151.4,Asia,Developing
+Cabo Verde,149.1,Africa,Developing
+Georgia,143.2,Asia,Developing
+Bolivia,142.9,South America,Developing
+Mexico,142.7,North America,Developing
+Haiti,142.3,North America,Developing
+El Salvador,142.1,North America,Developing
+Burundi,141.9,Africa,Developing
+Iran,141.6,Asia,Developing
+Nicaragua,141.1,North America,Developing
+Malaysia,139.9,Asia,Developing
+Morocco,139.6,Africa,Developing
+Rwanda,136.4,Africa,Developing
+Indonesia,136.2,Asia,Developing
+Zambia,136.2,Africa,Developing
+Mali,135.5,Africa,Developing
+Honduras,134.6,North America,Developing
+Belize,132.4,North America,Developing
+Tanzania,131.6,Africa,Developing
+Mozambique,131.1,Africa,Developing
+Myanmar,130.9,Asia,Developing
+Algeria,130.8,Africa,Developing
+Namibia,129.2,Africa,Developing
+Kyrgyzstan,128.8,Asia,Developing
+Guatemala,126.9,North America,Developing
+Benin,126.2,Africa,Developing
+Ghana,125.5,Africa,Developing
+Eswatini,125.1,Africa,Developing
+Cambodia,124.1,Asia,Developing
+Kuwait,121.8,Asia,Developing
+Somalia,120.8,Africa,Developing
+Libya,120.3,Africa,Developing
+S. Sudan,119.9,Africa,Developing
+Senegal,118.7,Africa,Developing
+Solomon Islands,118.1,Oceania,Developing
+Turkmenistan,117.8,Asia,Developing
+Burkina Faso,117.7,Africa,Developing
+Maldives,117.1,Asia,Developing
+Lesotho,116.8,Africa,Developing
+Tunisia,115.4,Africa,Developing
+Madagascar,115.3,Africa,Developing
+Pakistan,114.1,Asia,Developing
+Sao Tome and Principe,113.1,Africa,Developing
+United Arab Emirates,112.5,Asia,Developing
+Gabon,111.2,Africa,Developing
+Côte d'Ivoire,109.2,Africa,Developing
+Cameroon,107.5,Africa,Developing
+Angola,107.1,Africa,Developing
+Congo,106.6,Africa,Developing
+Azerbaijan,106.2,Asia,Developing
+Bangladesh,105.7,Asia,Developing
+Iraq,105.5,Asia,Developing
+Guyana,105.4,South America,Developing
+Bahrain,105.2,Asia,Developing
+Togo,105.1,Africa,Developing
+Liberia,104.1,Africa,Developing
+Vanuatu,104.1,Oceania,Developing
+Nigeria,103.8,Africa,Developing
+Nepal,103.7,Asia,Developing
+Botswana,103.6,Africa,Developing
+Oman,103.3,Asia,Developing
+Eq. Guinea,101.6,Africa,Developing
+Sierra Leone,101.1,Africa,Developing
+Guinea,100.5,Africa,Developing
+Afghanistan,100.2,Asia,Developing
+Comoros,99.8,Africa,Developing
+Ethiopia,99.5,Africa,Developing
+Mauritania,98.5,Africa,Developing
+Eritrea,97.7,Africa,Developing
+Qatar,97.3,Asia,Developing
+Guinea-Bissau,97.1,Africa,Developing
+Sudan,95.9,Africa,Developing
+Chad,95.4,Africa,Developing
+Central African Rep.,92.4,Africa,Developing
+Uzbekistan,91.4,Asia,Developing
+India,89.4,Asia,Developing
+Saudi Arabia,88.7,Asia,Developing
+Sri Lanka,88.1,Asia,Developing
+Djibouti,87.9,Africa,Developing
+Bhutan,87.8,Asia,Developing
+Tajikistan,87.3,Asia,Developing
+Timor-Leste,84.3,Asia,Developing
+Dem. Rep. Congo,76.9,Africa,Developing
+Yemen,76.1,Asia,Developing
+Niger,72.6,Africa,Developing
+Gambia,57.2,Africa,Developing
+Greenland,null,North America,Developing
