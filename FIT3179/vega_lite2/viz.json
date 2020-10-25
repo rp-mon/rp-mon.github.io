@@ -1,34 +1,85 @@
 {
- "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
- "width": 500,
- "height": 500,
- "title": "Global cancer incidence rates and HDI",
- "data": {
- "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
- },
- "mark": "circle",
- "encoding": {
- "x": {
- "field": "HDI",
- "type": "quantitative",
- "title": "Human Development Index (HDI)",
- "scale": {"domain": [0.3,1]}
- },
- "y": {
- "field": "Amount",
- "type": "quantitative",
- "title": "Cancer rate"
- },
- "color": {
- "field": "Continent",
- "type": "nominal"
- },
- "tooltip": [
- {"field": "Country", "type": "nominal"},
- {"field": "Continent", "type": "nominal"},
- {"field": "Development Index", "type": "nominal"},
- {"field": "Amount", "type": "quantitative"},
- {"field": "HDI", "type": "quantitative"}
- ]
- }
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 500,
+  "title": "Global cancer incidence rates and HDI",
+  "data": {
+    "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
+  },
+  "params": [
+    {
+      "name": "selectCont",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "labels": [
+          "Show All",
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "transform": [
+        {"filter": "selectCont == null || datum.Continent == selectCont"}
+      ],
+      "mark": "circle",
+      "encoding": {
+        "x": {
+          "field": "HDI",
+          "type": "quantitative",
+          "title": "Human Development Index (HDI)",
+          "scale": {"domain": [0.3, 1]}
+        },
+        "y": {
+          "field": "Amount",
+          "type": "quantitative",
+          "title": "Cancer rate",
+          "scale": {"domain": [0, 500]}
+        },
+        "color": {"field": "Continent", "type": "nominal"},
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Continent", "type": "nominal"},
+          {"field": "Development Index", "type": "nominal"},
+          {"field": "Amount", "type": "quantitative"},
+          {"field": "HDI", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {"test": "datum['Country'] == 'Australia'", "value": 1},
+          "value": 0
+        },
+        "tooltip": [{"field": "Country", "type": "nominal"}]
+      }
+    }
+  ]
 }
