@@ -1,4 +1,4 @@
-Country,Amount,Continent,Development Index,HDI
+ï»¿Country,Amount,Continent,Development Index,HDI
 Australia,468.1,Oceania,Developed,0.938
 New Zealand,438.1,Oceania,Developed,0.921
 Ireland,373.7,Europe,Developed,0.942
@@ -10,7 +10,6 @@ Denmark,340.4,Europe,Developed,0.93
 Norway,337.8,Europe,Developed,0.954
 Netherlands,334.1,Europe,Developed,0.933
 Canada,334.1,North America,Developed,0.922
-New Caledonia,324.2,Oceania,Developing,null
 United Kingdom,319.2,Europe,Developed,0.92
 South Korea,313.5,Asia,Developed,0.906
 Germany,313.1,Europe,Developed,0.939
@@ -33,21 +32,16 @@ Uruguay,263.4,South America,Developing,0.808
 Belarus,260.7,Europe,Developing,0.817
 Portugal,259.5,Europe,Developed,0.85
 Iceland,257.8,Europe,Developed,0.938
-Guadeloupe,254.6,North America,Developing,null
-Puerto Rico,254.5,North America,Developing,null
 Moldova,254.3,Europe,Developing,0.711
 Poland,253.8,Europe,Developed,0.872
-Martinique,250.8,North America,Developing,null
 Cyprus,250.8,Asia,Developed,0.873
 Malta,249.4,Europe,Developed,0.885
 Singapore,248.9,Asia,Developed,0.935
 Japan,248.1,Asia,Developed,0.915
 Austria,247.7,Europe,Developed,0.914
 Barbados,247.5,North America,Developing,0.813
-French Guiana,247.1,South America,Developing,null
 Lebanon,242.8,Asia,Developing,0.73
 Bulgaria,242.8,Europe,Developing,0.816
-French Polynesia,240.6,Oceania,Developing,null
 Israel,233.5,Asia,Developed,0.906
 Macedonia,230.8,Europe,Developing,0.759
 Mongolia,229.2,Asia,Developing,0.735
@@ -61,7 +55,6 @@ Brunei,220.2,Asia,Developing,0.845
 Argentina,218.1,South America,Developing,0.83
 Brazil,217.2,South America,Developing,0.761
 Cuba,216.5,North America,Developing,0.778
-Réunion,213.9,Africa,Developing,null
 South Africa,213.5,Africa,Developing,0.705
 Samoa,207.4,Oceania,Developing,0.707
 Jamaica,203.7,North America,Developing,0.726
@@ -76,7 +69,6 @@ Venezuela,187.5,South America,Developing,0.726
 Bahamas,181.4,North America,Developing,0.805
 Colombia,178.8,South America,Developing,0.761
 Trinidad and Tobago,177.4,North America,Developing,0.799
-Guam,177.2,Oceania,Developing,null
 Kenya,175.5,Africa,Developing,0.579
 Paraguay,175.5,South America,Developing,0.724
 Albania,173.9,Europe,Developing,0.791
@@ -88,8 +80,6 @@ Malawi,166.3,Africa,Developing,0.485
 Fiji,164.1,Oceania,Developing,0.724
 Dominican Rep.,163.9,North America,Developing,0.745
 Philippines,163.3,Asia,Developing,0.712
-North Korea,161.7,Asia,Developing,null
-West Bank and Gaza,158.6,Asia,Developing,null
 Thailand,158.2,Asia,Developing,0.765
 Jordan,157.8,Asia,Developing,0.723
 Saint Lucia,157.7,North America,Developing,0.745
@@ -99,7 +89,6 @@ Laos,154.3,Asia,Developing,0.604
 Mauritius,153.2,Africa,Developing,0.796
 Uganda,151.4,Africa,Developing,0.528
 Vietnam,151.4,Asia,Developing,0.693
-Cabo Verde,149.1,Africa,Developing,null
 Georgia,143.2,Asia,Developing,0.786
 Bolivia,142.9,South America,Developing,0.703
 Mexico,142.7,North America,Developing,0.767
@@ -128,7 +117,6 @@ Ghana,125.5,Africa,Developing,0.596
 Eswatini,125.1,Africa,Developing,0.608
 Cambodia,124.1,Asia,Developing,0.581
 Kuwait,121.8,Asia,Developing,0.808
-Somalia,120.8,Africa,Developing,null
 Libya,120.3,Africa,Developing,0.708
 S. Sudan,119.9,Africa,Developing,0.413
 Senegal,118.7,Africa,Developing,0.514
@@ -140,10 +128,9 @@ Lesotho,116.8,Africa,Developing,0.518
 Tunisia,115.4,Africa,Developing,0.739
 Madagascar,115.3,Africa,Developing,0.521
 Pakistan,114.1,Asia,Developing,0.56
-Sao Tome and Principe,113.1,Africa,Developing,null
 United Arab Emirates,112.5,Asia,Developing,0.866
 Gabon,111.2,Africa,Developing,0.702
-Côte d'Ivoire,109.2,Africa,Developing,0.516
+CÃ´te d'Ivoire,109.2,Africa,Developing,0.516
 Cameroon,107.5,Africa,Developing,0.563
 Angola,107.1,Africa,Developing,0.574
 Congo,106.6,Africa,Developing,0.608
@@ -184,4 +171,3 @@ Dem. Rep. Congo,76.9,Africa,Developing,0.459
 Yemen,76.1,Asia,Developing,0.463
 Niger,72.6,Africa,Developing,0.377
 Gambia,57.2,Africa,Developing,0.466
-Greenland,null,North America,Developing,null
