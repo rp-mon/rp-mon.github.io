@@ -26,7 +26,7 @@
  "tooltip": [
  {"field": "Country", "type": "nominal"},
  {"field": "Continent", "type": "nominal"},
- {"field": "Development", "type": "nominal"},
+ {"field": "Development Index", "type": "nominal"},
  {"field": "Amount", "type": "quantitative"},
  {"field": "HDI", "type": "quantitative"}
  ]
