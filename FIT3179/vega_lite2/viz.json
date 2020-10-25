@@ -1,38 +1,34 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Age-standardized new cancer rates (2018), per 100,000 people",
-  "width": 1000,
-  "height": 500,
-  "data": {
-    "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-  },
-  "transform": [
-    {
-      "lookup": "properties.NAME",
-      "from": {
-        "data": {
-          "url": "https://rp-mon.github.io/FIT3179/vega_lite/global-cancer-data2.csv"
-        },
-        "key": "Country",
-        "fields": ["Amount"]
-      }
-    },
-    {"calculate": "datum.Amount", "as": "Rate"}
-  ],
-  "projection": {"type": "equirectangular"},
-  "mark": {"type": "geoshape"},
-  "encoding": {
-    "color": {
-      "field": "Rate",
-      "type": "quantitative",
-      "scale": {"type": "log"},
-      "condition": {"test": "datum['Amount'] === null", "value": "#aaa"}
-    },
-    "tooltip": [
-      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-      {"field": "Rate", "type": "quantitative"}
-    ]
-  },
-  "config": {}
+ "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+ "width": 500,
+ "height": 500,
+ "title": "Global cancer incidence rates and",
+ "data": {
+ "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
+ },
+ "mark": "circle",
+ "encoding": {
+ "x": {
+ "field": "HDI",
+ "type": "quantitative",
+ "title": "Human Development Index (HDI)",
+ "scale": {"domain": [0.3,1]}
+ },
+ "y": {
+ "field": "Amount",
+ "type": "quantitative",
+ "title": "Cancer rate"
+ },
+ "color": {
+ "field": "Continent",
+ "type": "nominal"
+ },
+ "tooltip": [
+ {"field": "Country", "type": "nominal"},
+ {"field": "Continent", "type": "nominal"},
+ {"field": "Development", "type": "nominal"},
+ {"field": "Amount", "type": "quantitative"},
+ {"field": "HDI", "type": "quantitative"}
+ ]
+ }
 }
