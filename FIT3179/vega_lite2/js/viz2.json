@@ -3,6 +3,9 @@
   "title": "Age-standardized new cancer rates (2018), per 100,000 people",
   "width": 1000,
   "height": 500,
+  "config": {
+  "background": "#f0f7fa"
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
