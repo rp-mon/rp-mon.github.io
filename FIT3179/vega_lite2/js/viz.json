@@ -4,9 +4,7 @@
   "height": 500,
   "title": "Global cancer incidence rates and HDI",
   "config": {
-  "axis":{
-    "gridColor": "ddebf0"
-  }
+  "background": "#f0f7fa"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
