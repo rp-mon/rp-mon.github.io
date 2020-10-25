@@ -31,12 +31,29 @@
         ],
         "name": "Continent Selection: "
       }
+    },
+    {
+      "name": "selectDev",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Developed",
+          "Developing"
+        ],
+        "labels": [
+          "Show Both",
+          "Developed",
+          "Developing"
+        ],
+        "name": "Development Selection: "
+      }
     }
   ],
   "layer": [
     {
       "transform": [
-        {"filter": "selectCont == null || datum.Continent == selectCont"}
+        {"filter": "selectCont == null || datum.Continent == selectCont"}, {"filter": "selectDev == null || datum['Development Index'] == selectDev"}
       ],
       "mark": "circle",
       "encoding": {
