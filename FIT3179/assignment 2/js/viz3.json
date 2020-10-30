@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 875,
+  "width": 800,
   "height": 300,
   "title": "Australian Common Cancer Quantities",
   "config": {"background": "#f0f7fa"},
@@ -17,23 +17,26 @@
       {"Cancer Type": "Gynaecological cancers", "Number of cases": 5767},
       {"Cancer Type": "Non-Hodgkin lymphoma", "Number of cases": 5315},
       {"Cancer Type": "Rectal cancer", "Number of cases": 4903},
-      {"Cancer Type": "Head and neck cancer", "Number of cases": 4565}    ]
+      {"Cancer Type": "Head and neck cancer", "Number of cases": 4565}
+    ]
   },
   "encoding": {
     "y": {"field": "Cancer Type", "type": "nominal", "sort": ""},
-    "x": {"field": "Number of cases", "type": "quantitative", "scale": {"padding": 10}}
-  },
-  "layer": [{
-    "mark": "bar"
-  }, {
-    "mark": {
-      "type": "text",
-      "align": "left",
-      "baseline": "middle",
-      "dx": 3
+    "x": {
+      "field": "Number of cases",
+      "type": "quantitative",
+      "scale": {"padding": 10}
     },
-    "encoding": {
-      "text": {"field": "Number of cases", "type": "quantitative"}
+            "tooltip": [
+          {"field": "Cancer Type", "type": "nominal"},
+          {"field": "Number of cases", "type": "quantitative"}
+        ]
+  },
+  "layer": [
+    {"mark": "bar"},
+    {
+      "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 3},
+      "encoding": {"text": {"field": "Number of cases", "type": "quantitative"}}
     }
-  }]
+  ]
 }
