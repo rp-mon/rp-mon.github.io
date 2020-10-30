@@ -2,6 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
   "height": 300,
+  "title": "Australian Common Cancer Quantities",
+  "config": {"background": "#f0f7fa"},
   "description": "Bar chart with text labels. Apply scale padding to make the frame cover the labels.",
   "data": {
     "values": [
