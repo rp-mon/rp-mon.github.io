@@ -1,0 +1,173 @@
+﻿Country,Amount,Continent,Development Index,HDI
+Australia,468.1,Oceania,Developed,0.938
+New Zealand,438.1,Oceania,Developed,0.921
+Ireland,373.7,Europe,Developed,0.942
+Hungary,368.1,Europe,Developed,0.845
+United States of America,352.2,North America,Developed,0.92
+Belgium,345.8,Europe,Developed,0.919
+France,344.1,Europe,Developed,0.891
+Denmark,340.4,Europe,Developed,0.93
+Norway,337.8,Europe,Developed,0.954
+Netherlands,334.1,Europe,Developed,0.933
+Canada,334.1,North America,Developed,0.922
+United Kingdom,319.2,Europe,Developed,0.92
+South Korea,313.5,Asia,Developed,0.906
+Germany,313.1,Europe,Developed,0.939
+Switzerland,311.1,Europe,Developed,0.946
+Luxembourg,309.3,Europe,Developed,0.909
+Serbia,307.8,Europe,Developing,0.799
+Slovenia,304.9,Europe,Developed,0.902
+Latvia,302.2,Europe,Developed,0.854
+Slovakia,297.5,Europe,Developed,0.857
+Czechia,296.7,Europe,Developed,0.891
+Sweden,294.7,Europe,Developed,0.937
+Italy,290.6,Europe,Developed,0.883
+Croatia,287.2,Europe,Developing,0.837
+Lithuania,285.8,Europe,Developed,0.869
+Estonia,283.3,Europe,Developed,0.882
+Greece,279.8,Europe,Developed,0.872
+Spain,272.3,Europe,Developed,0.893
+Finland,266.3,Europe,Developed,0.925
+Uruguay,263.4,South America,Developing,0.808
+Belarus,260.7,Europe,Developing,0.817
+Portugal,259.5,Europe,Developed,0.85
+Iceland,257.8,Europe,Developed,0.938
+Moldova,254.3,Europe,Developing,0.711
+Poland,253.8,Europe,Developed,0.872
+Cyprus,250.8,Asia,Developed,0.873
+Malta,249.4,Europe,Developed,0.885
+Singapore,248.9,Asia,Developed,0.935
+Japan,248.1,Asia,Developed,0.915
+Austria,247.7,Europe,Developed,0.914
+Barbados,247.5,North America,Developing,0.813
+Lebanon,242.8,Asia,Developing,0.73
+Bulgaria,242.8,Europe,Developing,0.816
+Israel,233.5,Asia,Developed,0.906
+Macedonia,230.8,Europe,Developing,0.759
+Mongolia,229.2,Asia,Developing,0.735
+Turkey,225.1,Asia,Developing,0.806
+Romania,222.4,Europe,Developing,0.816
+Russia,222.1,Europe,Developing,0.824
+Montenegro,221.9,Europe,Developing,0.816
+Ukraine,220.9,Europe,Developing,0.75
+Bosnia and Herz.,220.3,Europe,Developing,0.769
+Brunei,220.2,Asia,Developing,0.845
+Argentina,218.1,South America,Developing,0.83
+Brazil,217.2,South America,Developing,0.761
+Cuba,216.5,North America,Developing,0.778
+South Africa,213.5,Africa,Developing,0.705
+Samoa,207.4,Oceania,Developing,0.707
+Jamaica,203.7,North America,Developing,0.726
+Papua New Guinea,202.4,Oceania,Developing,0.543
+China,201.7,Asia,Developing,0.758
+Costa Rica,197.7,North America,Developing,0.794
+Zimbabwe,197.5,Africa,Developing,0.563
+Chile,195.5,South America,Developed,0.847
+Armenia,194.8,Asia,Developing,0.76
+Peru,192.6,South America,Developing,0.759
+Venezuela,187.5,South America,Developing,0.726
+Bahamas,181.4,North America,Developing,0.805
+Colombia,178.8,South America,Developing,0.761
+Trinidad and Tobago,177.4,North America,Developing,0.799
+Kenya,175.5,Africa,Developing,0.579
+Paraguay,175.5,South America,Developing,0.724
+Albania,173.9,Europe,Developing,0.791
+Panama,173.1,North America,Developing,0.795
+Suriname,172.6,South America,Developing,0.724
+Kazakhstan,170.1,Asia,Developing,0.817
+Syria,169.9,Asia,Developing,0.549
+Malawi,166.3,Africa,Developing,0.485
+Fiji,164.1,Oceania,Developing,0.724
+Dominican Rep.,163.9,North America,Developing,0.745
+Philippines,163.3,Asia,Developing,0.712
+Thailand,158.2,Asia,Developing,0.765
+Jordan,157.8,Asia,Developing,0.723
+Saint Lucia,157.7,North America,Developing,0.745
+Ecuador,157.2,South America,Developing,0.758
+Egypt,156.9,Africa,Developing,0.7
+Laos,154.3,Asia,Developing,0.604
+Mauritius,153.2,Africa,Developing,0.796
+Uganda,151.4,Africa,Developing,0.528
+Vietnam,151.4,Asia,Developing,0.693
+Georgia,143.2,Asia,Developing,0.786
+Bolivia,142.9,South America,Developing,0.703
+Mexico,142.7,North America,Developing,0.767
+Haiti,142.3,North America,Developing,0.503
+El Salvador,142.1,North America,Developing,0.667
+Burundi,141.9,Africa,Developing,0.423
+Iran,141.6,Asia,Developing,0.797
+Nicaragua,141.1,North America,Developing,0.651
+Malaysia,139.9,Asia,Developing,0.804
+Morocco,139.6,Africa,Developing,0.676
+Rwanda,136.4,Africa,Developing,0.536
+Indonesia,136.2,Asia,Developing,0.707
+Zambia,136.2,Africa,Developing,0.591
+Mali,135.5,Africa,Developing,0.427
+Honduras,134.6,North America,Developing,0.623
+Belize,132.4,North America,Developing,0.72
+Tanzania,131.6,Africa,Developing,0.528
+Mozambique,131.1,Africa,Developing,0.446
+Myanmar,130.9,Asia,Developing,0.584
+Algeria,130.8,Africa,Developing,0.759
+Namibia,129.2,Africa,Developing,0.645
+Kyrgyzstan,128.8,Asia,Developing,0.674
+Guatemala,126.9,North America,Developing,0.651
+Benin,126.2,Africa,Developing,0.52
+Ghana,125.5,Africa,Developing,0.596
+Eswatini,125.1,Africa,Developing,0.608
+Cambodia,124.1,Asia,Developing,0.581
+Kuwait,121.8,Asia,Developing,0.808
+Libya,120.3,Africa,Developing,0.708
+S. Sudan,119.9,Africa,Developing,0.413
+Senegal,118.7,Africa,Developing,0.514
+Solomon Islands,118.1,Oceania,Developing,0.557
+Turkmenistan,117.8,Asia,Developing,0.71
+Burkina Faso,117.7,Africa,Developing,0.434
+Maldives,117.1,Asia,Developing,0.719
+Lesotho,116.8,Africa,Developing,0.518
+Tunisia,115.4,Africa,Developing,0.739
+Madagascar,115.3,Africa,Developing,0.521
+Pakistan,114.1,Asia,Developing,0.56
+United Arab Emirates,112.5,Asia,Developing,0.866
+Gabon,111.2,Africa,Developing,0.702
+Côte d'Ivoire,109.2,Africa,Developing,0.516
+Cameroon,107.5,Africa,Developing,0.563
+Angola,107.1,Africa,Developing,0.574
+Congo,106.6,Africa,Developing,0.608
+Azerbaijan,106.2,Asia,Developing,0.754
+Bangladesh,105.7,Asia,Developing,0.614
+Iraq,105.5,Asia,Developing,0.689
+Guyana,105.4,South America,Developing,0.67
+Bahrain,105.2,Asia,Developing,0.838
+Togo,105.1,Africa,Developing,0.513
+Liberia,104.1,Africa,Developing,0.465
+Vanuatu,104.1,Oceania,Developing,0.597
+Nigeria,103.8,Africa,Developing,0.534
+Nepal,103.7,Asia,Developing,0.579
+Botswana,103.6,Africa,Developing,0.728
+Oman,103.3,Asia,Developing,0.834
+Eq. Guinea,101.6,Africa,Developing,0.588
+Sierra Leone,101.1,Africa,Developing,0.438
+Guinea,100.5,Africa,Developing,0.466
+Afghanistan,100.2,Asia,Developing,0.496
+Comoros,99.8,Africa,Developing,0.538
+Ethiopia,99.5,Africa,Developing,0.47
+Mauritania,98.5,Africa,Developing,0.527
+Eritrea,97.7,Africa,Developing,0.434
+Qatar,97.3,Asia,Developing,0.848
+Guinea-Bissau,97.1,Africa,Developing,0.461
+Sudan,95.9,Africa,Developing,0.507
+Chad,95.4,Africa,Developing,0.401
+Central African Rep.,92.4,Africa,Developing,0.381
+Uzbekistan,91.4,Asia,Developing,0.71
+India,89.4,Asia,Developing,0.647
+Saudi Arabia,88.7,Asia,Developing,0.857
+Sri Lanka,88.1,Asia,Developing,0.78
+Djibouti,87.9,Africa,Developing,0.495
+Bhutan,87.8,Asia,Developing,0.617
+Tajikistan,87.3,Asia,Developing,0.656
+Timor-Leste,84.3,Asia,Developing,0.626
+Dem. Rep. Congo,76.9,Africa,Developing,0.459
+Yemen,76.1,Asia,Developing,0.463
+Niger,72.6,Africa,Developing,0.377
+Gambia,57.2,Africa,Developing,0.466
