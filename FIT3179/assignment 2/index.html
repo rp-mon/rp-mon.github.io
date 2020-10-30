@@ -67,8 +67,8 @@
    <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1>FIT3179 - Multiple Visualisations</h1>
-        <p>Rivi Prathapasinghe, 28759222. Created for FIT3179 Homework Week 10.</p>
+        <h1>FIT3179 - Global and Domestic Cancer Data</h1>
+        <p>Rivi Prathapasinghe, 28759222. Created for FIT3179 Assignment 2.</p>
       </div>
     </div>
   <!-- end pure grid group -->
@@ -97,6 +97,12 @@
     <!-- end pure grid group -->
 
     <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="barchart" class="vis-container"></div>
+      </div>
+    </div>
+
+    <div class="pure-g">
       <div class="pure-u-1-1 small-font">
         <p>This visualisation was created by <a href="https://github.com/rp-mon" target="_blank">Rivi Prathapasinghe</a>. The datasource is <a href="https://gco.iarc.fr/today/home" target="_blank">from the IARC (part of the WHO)</href>.</p>
       </div>
@@ -110,6 +116,10 @@
     }).catch(console.error);
     var vis2 = "js/viz.json";
     vegaEmbed('#scatterplot', vis2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    var vis3 = "js/viz3.json";
+    vegaEmbed('#barchart', vis2).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   </script>
