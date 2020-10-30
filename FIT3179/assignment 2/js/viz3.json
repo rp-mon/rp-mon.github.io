@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 1000,
+  "height": 300,
+  "description": "Bar chart with text labels. Apply scale padding to make the frame cover the labels.",
+  "data": {
+    "values": [
+      {"Cancer Type": "Prostate Cancer", "Number of cases": 19305},
+      {"Cancer Type": "Breast Cancer", "Number of cases": 17492},
+      {"Cancer Type": "Colorectal Cancer", "Number of cases": 15352},
+      {"Cancer Type": "Melanoma", "Number of cases": 14485},
+      {"Cancer Type": "Lung Cancer", "Number of cases": 12216},
+      {"Cancer Type": "Colon Cancer", "Number of cases": 10450},
+      {"Cancer Type": "Lymphoma", "Number of cases": 6000},
+      {"Cancer Type": "Gynaecological cancers", "Number of cases": 5767},
+      {"Cancer Type": "Non-Hodgkin lymphoma", "Number of cases": 5315},
+      {"Cancer Type": "Rectal cancer", "Number of cases": 4903},
+      {"Cancer Type": "Head and neck cancer", "Number of cases": 4565}    ]
+  },
+  "encoding": {
+    "y": {"field": "Cancer Type", "type": "nominal", "sort": ""},
+    "x": {"field": "Number of cases", "type": "quantitative", "scale": {"padding": 10}}
+  },
+  "layer": [{
+    "mark": "bar"
+  }, {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": 3
+    },
+    "encoding": {
+      "text": {"field": "Number of cases", "type": "quantitative"}
+    }
+  }]
+}
