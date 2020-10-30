@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 800,
+  "width": 875,
   "height": 300,
   "title": "Australian Common Cancer Quantities",
   "config": {"background": "#f0f7fa"},
