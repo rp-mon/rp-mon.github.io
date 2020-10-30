@@ -5,7 +5,7 @@
     Initially, copied from the Wikipedia page for  lex, then modified over time.
     Last updated:  30 September 2020
 */
-    
+
 /*** Definition section ***/
 
 %{
@@ -47,19 +47,15 @@ Rotation  {
 
 
 
-[-+*/(),]   {
+[(),/-*+]   {
             printf("Token and Lexeme: %s\n", yytext);
 /*
             return  *yytext;
 */
         }
 
-[ijk]   {
-	    printf("Token and Lexeme: %s\n", yytext);
-/*
-	    return *yytext;
-*/
-
+[ijk] {
+	printf("Token and Lexeme: %s\n", yytext);
 }
 
 
