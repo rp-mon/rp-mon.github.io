@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Global cancer incidence rates boxplot by development",
+  "config": {"background": "#f0f7fa"},
+  "data": {"url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"},
+  "mark": {
+    "type": "boxplot",
+    "extent": "min-max"
+  },
+  "encoding": {
+    "x": {"field": "Development Index", "type": "nominal"},
+    "y": {
+      "field": "Amount",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    }
+  }
+}

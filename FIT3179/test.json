@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "2017 Australian Marriage Equality Vote Results",
+  "width": 600,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/0_students_questions/geo/1/CED_2016_AUST.json",
+    "format": {"type": "topojson", "feature": "CED_2016_AUST"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.CED_NAME16",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/0_students_questions/geo/1/survey.csv"
+        },
+        "key": "Federal_Electoral_Division",
+        "fields": ["Federal_Electoral_Division","Total_Clear_Responses","Total_Eligible_Participants","Total_Responses_of_Yes","Total_Responses_of_No"]
+      }
+    },
+    {"calculate": "datum.Total_Responses_of_Yes/datum.Total_Clear_Responses*100", "as": "Percentage of Yes Votes"},
+    {"calculate": "datum.Total_Clear_Responses/datum.Total_Eligible_Participants", "as": "Participation Rate"}
+    ,{"calculate": "datum.Total_Responses_of_Yes/datum.Total_Clear_Responses", "as": "Percentage of Yes Tooltip"}
+  ],
+  "projection": {"type": "azimuthalEqualArea", "rotate":[-133,28,0]},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Percentage of Yes Votes",
+      "type": "quantitative",
+      "scale": {"type": "linear", "scheme":"redblue","domainMid":50}
+    },
+    "tooltip": [
+      {"field": "properties.CED_NAME16", "type": "nominal", "title": "Electoral Division"},
+      {"field": "Total_Eligible_Participants", "type": "quantitative", "title": "Eligible Participants","format":","},
+      {"field": "Participation Rate", "type": "quantitative", "format": ".4p"},
+      {"field": "Percentage of Yes Tooltip", "type": "quantitative", "format": ".4p", "title": "Survey Result"}
+    ]
+  },
+  "config": {}
+}
