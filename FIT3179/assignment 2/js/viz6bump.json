@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 500,
+  "description": "Global cancer incidence rates boxplot by development",
+  "config": {"background": "#f0f7fa"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/bumpchart.csv"
+  },
+  "mark": "line",
+  "selection": {
+    "cancer_highlight": {
+      "type": "multi",
+      "fields": ["Cancer group/site"],
+      "bind": "legend"
+    }
+  },
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "Yearly_Count", "type": "quantitative", "scale": {"domain":[1,10], "reverse":true},"axis":{"tickMinStep":1}, "title":"Rank"},
+    "color": {"field": "Cancer group/site", "type": "nominal"},
+    "opacity": {
+      "condition": {"selection": "cancer_highlight", "value": 1},
+      "value": 0
+    },
+    "tooltip": [
+      {"field": "Cancer group/site", "type": "nominal"},
+      {"field": "Year", "type": "temporal"},
+      {"field": "Yearly_Count", "type": "quantitative", "title":"Rank"}
+    ]
+  }
+}
