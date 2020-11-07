@@ -1,4 +1,4 @@
-﻿Data type,Cancer group/site,Year,Gender,Age group (years),Count,Yearly_Count,Classification,Deaths
+﻿Data type,Cancer group/site,Year,Gender,Age group,Count,Yearly_Count,Classification,Deaths
 Actual,Acute lymphoblastic leukaemia (ALL),2016,Persons,All ages,361,44,Other,97
 Actual,Prostate cancer,2016,Persons,All ages,19305,1,Prostate cancer,3253
 Actual,Breast cancer,2016,Persons,All ages,17492,2,Breast cancer,3016
