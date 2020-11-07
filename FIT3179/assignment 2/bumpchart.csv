@@ -4,9 +4,7 @@ Actual,Colon cancer,1982,Persons,All ages,"4,563",4
 Actual,Colorectal cancer,1982,Persons,All ages,"6,994",1
 Actual,Gynaecological cancers,1982,Persons,All ages,"2,952",7
 Actual,Lung cancer,1982,Persons,All ages,"5,949",2
-Actual,Lymphoma,1982,Persons,All ages,"1,918",11
 Actual,Melanoma of the skin,1982,Persons,All ages,"3,543",6
-Actual,Non-Hodgkin lymphoma,1982,Persons,All ages,"1,591",13
 Actual,Prostate cancer,1982,Persons,All ages,"3,606",5
 Actual,Rectal cancer,1982,Persons,All ages,"2,431",8
 Actual,Breast cancer,1983,Persons,All ages,"5,421",3
@@ -14,9 +12,7 @@ Actual,Colon cancer,1983,Persons,All ages,"4,744",4
 Actual,Colorectal cancer,1983,Persons,All ages,"7,171",1
 Actual,Gynaecological cancers,1983,Persons,All ages,"3,007",7
 Actual,Lung cancer,1983,Persons,All ages,"6,121",2
-Actual,Lymphoma,1983,Persons,All ages,"1,926",11
 Actual,Melanoma of the skin,1983,Persons,All ages,"3,797",5
-Actual,Non-Hodgkin lymphoma,1983,Persons,All ages,"1,597",13
 Actual,Prostate cancer,1983,Persons,All ages,"3,733",6
 Actual,Rectal cancer,1983,Persons,All ages,"2,427",8
 Actual,Breast cancer,1984,Persons,All ages,"5,762",3
@@ -24,9 +20,7 @@ Actual,Colon cancer,1984,Persons,All ages,"5,022",4
 Actual,Colorectal cancer,1984,Persons,All ages,"7,508",1
 Actual,Gynaecological cancers,1984,Persons,All ages,"3,142",7
 Actual,Lung cancer,1984,Persons,All ages,"6,340",2
-Actual,Lymphoma,1984,Persons,All ages,"2,015",11
 Actual,Melanoma of the skin,1984,Persons,All ages,"4,045",5
-Actual,Non-Hodgkin lymphoma,1984,Persons,All ages,"1,691",13
 Actual,Prostate cancer,1984,Persons,All ages,"3,873",6
 Actual,Rectal cancer,1984,Persons,All ages,"2,486",8
 Actual,Breast cancer,1985,Persons,All ages,"5,980",3
@@ -34,9 +28,7 @@ Actual,Colon cancer,1985,Persons,All ages,"5,442",4
 Actual,Colorectal cancer,1985,Persons,All ages,"8,021",1
 Actual,Gynaecological cancers,1985,Persons,All ages,"3,190",7
 Actual,Lung cancer,1985,Persons,All ages,"6,313",2
-Actual,Lymphoma,1985,Persons,All ages,"2,060",11
 Actual,Melanoma of the skin,1985,Persons,All ages,"4,510",5
-Actual,Non-Hodgkin lymphoma,1985,Persons,All ages,"1,775",13
 Actual,Prostate cancer,1985,Persons,All ages,"4,155",6
 Actual,Rectal cancer,1985,Persons,All ages,"2,579",8
 Actual,Breast cancer,1986,Persons,All ages,"6,138",3
@@ -44,9 +36,7 @@ Actual,Colon cancer,1986,Persons,All ages,"5,531",4
 Actual,Colorectal cancer,1986,Persons,All ages,"8,067",1
 Actual,Gynaecological cancers,1986,Persons,All ages,"3,219",7
 Actual,Lung cancer,1986,Persons,All ages,"6,463",2
-Actual,Lymphoma,1986,Persons,All ages,"2,121",11
 Actual,Melanoma of the skin,1986,Persons,All ages,"4,713",5
-Actual,Non-Hodgkin lymphoma,1986,Persons,All ages,"1,798",13
 Actual,Prostate cancer,1986,Persons,All ages,"4,305",6
 Actual,Rectal cancer,1986,Persons,All ages,"2,536",8
 Actual,Breast cancer,1987,Persons,All ages,"6,761",3
@@ -56,7 +46,6 @@ Actual,Gynaecological cancers,1987,Persons,All ages,"3,326",7
 Actual,Lung cancer,1987,Persons,All ages,"6,879",2
 Actual,Lymphoma,1987,Persons,All ages,"2,357",9
 Actual,Melanoma of the skin,1987,Persons,All ages,"5,558",5
-Actual,Non-Hodgkin lymphoma,1987,Persons,All ages,"2,037",12
 Actual,Prostate cancer,1987,Persons,All ages,"4,566",6
 Actual,Rectal cancer,1987,Persons,All ages,"2,695",8
 Actual,Breast cancer,1988,Persons,All ages,"6,796",2
@@ -66,7 +55,6 @@ Actual,Gynaecological cancers,1988,Persons,All ages,"3,281",7
 Actual,Lung cancer,1988,Persons,All ages,"6,690",3
 Actual,Lymphoma,1988,Persons,All ages,"2,402",10
 Actual,Melanoma of the skin,1988,Persons,All ages,"6,016",4
-Actual,Non-Hodgkin lymphoma,1988,Persons,All ages,"2,053",12
 Actual,Prostate cancer,1988,Persons,All ages,"4,767",6
 Actual,Rectal cancer,1988,Persons,All ages,"2,785",8
 Actual,Breast cancer,1989,Persons,All ages,"7,249",2
@@ -76,7 +64,6 @@ Actual,Gynaecological cancers,1989,Persons,All ages,"3,382",7
 Actual,Lung cancer,1989,Persons,All ages,"6,945",3
 Actual,Lymphoma,1989,Persons,All ages,"2,528",9
 Actual,Melanoma of the skin,1989,Persons,All ages,"5,729",5
-Actual,Non-Hodgkin lymphoma,1989,Persons,All ages,"2,191",11
 Actual,Prostate cancer,1989,Persons,All ages,"5,317",6
 Actual,Rectal cancer,1989,Persons,All ages,"2,921",8
 Actual,Breast cancer,1990,Persons,All ages,"7,516",2
@@ -86,7 +73,6 @@ Actual,Gynaecological cancers,1990,Persons,All ages,"3,453",7
 Actual,Lung cancer,1990,Persons,All ages,"7,149",3
 Actual,Lymphoma,1990,Persons,All ages,"2,675",10
 Actual,Melanoma of the skin,1990,Persons,All ages,"5,831",6
-Actual,Non-Hodgkin lymphoma,1990,Persons,All ages,"2,312",11
 Actual,Prostate cancer,1990,Persons,All ages,"6,137",4
 Actual,Rectal cancer,1990,Persons,All ages,"3,034",8
 Actual,Breast cancer,1991,Persons,All ages,"8,105",2
@@ -96,7 +82,6 @@ Actual,Gynaecological cancers,1991,Persons,All ages,"3,619",7
 Actual,Lung cancer,1991,Persons,All ages,"7,164",3
 Actual,Lymphoma,1991,Persons,All ages,"2,799",10
 Actual,Melanoma of the skin,1991,Persons,All ages,"5,972",6
-Actual,Non-Hodgkin lymphoma,1991,Persons,All ages,"2,486",11
 Actual,Prostate cancer,1991,Persons,All ages,"6,754",4
 Actual,Rectal cancer,1991,Persons,All ages,"3,224",8
 Actual,Breast cancer,1992,Persons,All ages,"8,072",2
@@ -106,7 +91,6 @@ Actual,Gynaecological cancers,1992,Persons,All ages,"3,602",7
 Actual,Lung cancer,1992,Persons,All ages,"7,191",4
 Actual,Lymphoma,1992,Persons,All ages,"3,023",9
 Actual,Melanoma of the skin,1992,Persons,All ages,"6,565",5
-Actual,Non-Hodgkin lymphoma,1992,Persons,All ages,"2,657",11
 Actual,Prostate cancer,1992,Persons,All ages,"7,929",3
 Actual,Rectal cancer,1992,Persons,All ages,"3,329",8
 Actual,Breast cancer,1993,Persons,All ages,"8,856",3
@@ -116,7 +100,6 @@ Actual,Gynaecological cancers,1993,Persons,All ages,"3,643",7
 Actual,Lung cancer,1993,Persons,All ages,"7,329",4
 Actual,Lymphoma,1993,Persons,All ages,"3,056",9
 Actual,Melanoma of the skin,1993,Persons,All ages,"6,773",5
-Actual,Non-Hodgkin lymphoma,1993,Persons,All ages,"2,704",11
 Actual,Prostate cancer,1993,Persons,All ages,"11,193",1
 Actual,Rectal cancer,1993,Persons,All ages,"3,370",8
 Actual,Breast cancer,1994,Persons,All ages,"9,827",3
@@ -136,7 +119,6 @@ Actual,Gynaecological cancers,1995,Persons,All ages,"3,706",7
 Actual,Lung cancer,1995,Persons,All ages,"7,560",4
 Actual,Lymphoma,1995,Persons,All ages,"3,206",9
 Actual,Melanoma of the skin,1995,Persons,All ages,"7,483",5
-Actual,Non-Hodgkin lymphoma,1995,Persons,All ages,"2,868",11
 Actual,Prostate cancer,1995,Persons,All ages,"12,418",1
 Actual,Rectal cancer,1995,Persons,All ages,"3,682",8
 Actual,Breast cancer,1996,Persons,All ages,"9,836",3
