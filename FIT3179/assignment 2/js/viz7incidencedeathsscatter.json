@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 450,
+  "height": 450,
+  "title": "Global cancer incidence rates and HDI",
+  "config": {"background": "#f0f7fa"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/deathvsincidence.csv"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Count", "type": "quantitative"},
+    "y": {"field": "Deaths", "type": "quantitative"},
+    "tooltip": [
+      {"field": "Cancer group/site", "type": "nominal"},
+      {"field": "Count", "type": "quantitative", "title": "Incidence rate"},
+      {"field": "Deaths", "type": "quantitative", "title": "Death rate"}
+    ]
+  },
+  "params": [
+    {
+      "name": "Incidence_max",
+      "value": 9000,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 20000,
+        "step": 100,
+        "name": "Maximum Incidence: "
+      }
+    }
+  ],
+  "transform":[
+    {"filter": "datum.Count < Incidence_max"}
+  ]
+}
