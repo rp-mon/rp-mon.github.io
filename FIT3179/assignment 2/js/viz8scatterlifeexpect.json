@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 450,
+  "height": 450,
+  "title": "Global cancer incidence rates and HDI",
+  "config": {"background": "#f0f7fa"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/globalcancerdatalifeexpectancy.csv"
+  },
+  "mark": "circle",
+  "encoding": {
+    "x": {"field": "Life Expectancy", "type": "quantitative", "scale":{"domainMin":50}},
+    "y": {"field": "Amount", "type": "quantitative"},
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Amount", "type": "quantitative", "title": "Incidence rate"},
+      {"field": "Life Expectancy", "type": "quantitative"}
+    ],
+    "color":{"field": "Continent", "type": "nominal"}
+  }
+}
