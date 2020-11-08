@@ -3,38 +3,11 @@
   "width": "container",
   "height": 300,
   "title": "Global cancer incidence rates and HDI",
-  "config": {
-  "background": "#f0f7fa"
-  },
+  "config": {"background": "#f0f7fa"},
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
   },
   "params": [
-    {
-      "name": "selectCont",
-      "bind": {
-        "input": "select",
-        "options": [
-          null,
-          "Africa",
-          "Asia",
-          "Europe",
-          "North America",
-          "Oceania",
-          "South America"
-        ],
-        "labels": [
-          "Show All",
-          "Africa",
-          "Asia",
-          "Europe",
-          "North America",
-          "Oceania",
-          "South America"
-        ],
-        "name": "Continent Selection: "
-      }
-    },
     {
       "name": "selectDev",
       "bind": {
@@ -46,11 +19,8 @@
     }
   ],
   "transform": [
-        {"filter": "selectCont == null || datum.Continent == selectCont"},
-        {
-          "filter": "selectDev == null || datum['Development Index'] == selectDev"
-        }
-      ],
+    {"filter": "selectDev == null || datum['Development Index'] == selectDev"}
+  ],
   "encoding": {
     "x": {
       "field": "HDI",
@@ -68,8 +38,19 @@
   "layer": [
     {
       "mark": "circle",
+      "selection": {
+        "cancer_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        }
+      },
       "encoding": {
         "color": {"field": "Continent", "type": "nominal"},
+        "opacity": {
+          "condition": {"selection": "cancer_highlight", "value": 0.6},
+          "value": 0
+        },
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Continent", "type": "nominal"},
@@ -92,7 +73,10 @@
         "text": {"field": "Country", "type": "nominal"},
         "color": {"value": "black"},
         "opacity": {
-          "condition": {"test": "datum['Country'] == 'Australia' || datum['Country'] == 'United States of America' || datum['Country'] == 'Kuwait' || datum['Country'] == 'Gambia' || datum['Country'] == 'Kenya'", "value": 1},
+          "condition": {
+            "test": "datum['Country'] == 'Australia' || datum['Country'] == 'United States of America' || datum['Country'] == 'Kuwait' || datum['Country'] == 'Gambia' || datum['Country'] == 'Kenya'",
+            "value": 1
+          },
           "value": 0
         },
         "tooltip": [
