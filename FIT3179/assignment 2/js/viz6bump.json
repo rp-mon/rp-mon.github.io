@@ -7,7 +7,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/bumpchart.csv"
   },
-  "mark": "line",
+  "mark": {"type": "line", "point": true},
   "selection": {
     "cancer_highlight": {
       "type": "multi",
@@ -16,8 +16,14 @@
     }
   },
   "encoding": {
-    "x": {"field": "Year", "type": "temporal"},
-    "y": {"field": "Yearly_Count", "type": "quantitative", "scale": {"domain":[1,10], "reverse":true},"axis":{"tickMinStep":1}, "title":"Rank"},
+    "x": {"field": "Year", "type": "temporal","timeUnit":"year"},
+    "y": {
+      "field": "Yearly_Count",
+      "type": "quantitative",
+      "scale": {"domain": [1, 10], "reverse": true},
+      "axis": {"tickMinStep": 1},
+      "title": "Rank"
+    },
     "color": {"field": "Cancer group/site", "type": "nominal"},
     "opacity": {
       "condition": {"selection": "cancer_highlight", "value": 1},
@@ -25,8 +31,8 @@
     },
     "tooltip": [
       {"field": "Cancer group/site", "type": "nominal"},
-      {"field": "Year", "type": "temporal"},
-      {"field": "Yearly_Count", "type": "quantitative", "title":"Rank"}
+      {"field": "Year", "type": "temporal", "format": "%Y"},
+      {"field": "Yearly_Count", "type": "quantitative", "title": "Rank"}
     ]
   }
 }
