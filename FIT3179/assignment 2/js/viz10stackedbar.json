@@ -2,23 +2,41 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": "container",
   "height": 300,
+  "title": "Common Australian Cancer proportions of total",
   "config": {"background": "#f0f7fa"},
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/stackedbar.csv"
   },
   "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
   "encoding": {
-    "x": {"timeUnit": "year", "field": "Year", "type": "ordinal"},
-    "y": {"aggregate": "sum", "field": "PercPopDP", "type": "quantitative", "scale":{"domain":[0,1]},"axis": {"tickMinStep": 0.1}},
+    "x": {"timeUnit": "year", "field": "Year", "type": "ordinal", "title":"Year"},
+    "y": {
+      "aggregate": "sum",
+      "field": "PercPopDP",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1]},
+      "axis": {"tickMinStep": 0.1},
+      "title": "Percentage of total cancer incidence"
+    },
     "color": {
       "field": "Cancer group/site",
-      "legend": {"values": ["Other","Prostate cancer","Breast cancer","Colorectal cancer","Lung cancer","Colon cancer"]}
+      "legend": {
+        "values": [
+          "Other",
+          "Prostate cancer",
+          "Breast cancer",
+          "Colorectal cancer",
+          "Lung cancer",
+          "Colon cancer"
+        ]
+      },
+      "title":"Cancer type"
     },
     "order": {"field": "Order"},
     "tooltip": [
       {"field": "Cancer group/site", "type": "nominal"},
       {"field": "Year", "type": "temporal", "format": "%Y"},
-      {"field": "Count", "type": "quantitative", "title": "Rank"}
+      {"field": "PercPopDP", "type": "quantitative", "title": "Rank","format":"0.4p"}
     ]
   }
 }
