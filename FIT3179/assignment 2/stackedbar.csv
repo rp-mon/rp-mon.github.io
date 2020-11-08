@@ -1,0 +1,211 @@
+﻿Data type,Cancer group/site,Year,Sex,Age group,Count,Yearly_Count,Population,PopAdjCount,Adj,PercentagePop
+Actual,Breast cancer,1982,Persons,All ages,5374,3,15178000,35.40650942,35.40650942,0.11
+Actual,Colon cancer,1982,Persons,All ages,4563,4,15178000,30.06324944,30.06324944,0.10
+Actual,Colorectal cancer,1982,Persons,All ages,6994,1,15178000,46.07985242,46.07985242,0.15
+Actual,Lung cancer,1982,Persons,All ages,5949,2,15178000,39.19488734,39.19488734,0.13
+Actual,Prostate cancer,1982,Persons,All ages,3606,5,15178000,23.75807089,23.75807089,0.08
+TOTAL,Other,1982,Persons,All ages,N/A,N/A,N/A,312.7421268,138.2395573,0.44
+Actual,Breast cancer,1983,Persons,All ages,5421,3,15369000,35.27230139,35.27230139,0.11
+Actual,Colon cancer,1983,Persons,All ages,4744,4,15369000,30.86733034,30.86733034,0.10
+Actual,Colorectal cancer,1983,Persons,All ages,7171,1,15369000,46.65885874,46.65885874,0.15
+Actual,Lung cancer,1983,Persons,All ages,6121,2,15369000,39.82692433,39.82692433,0.13
+Actual,Prostate cancer,1983,Persons,All ages,3733,6,15369000,24.28915349,24.28915349,0.08
+TOTAL,Other,1984,Persons,All ages,N/A,N/A,N/A,316.5462945,139.6317262,0.44
+Actual,Breast cancer,1984,Persons,All ages,5762,3,15544000,37.06896552,37.06896552,0.11
+Actual,Colon cancer,1984,Persons,All ages,5022,4,15544000,32.30828616,32.30828616,0.10
+Actual,Colorectal cancer,1984,Persons,All ages,7508,1,15544000,48.30159547,48.30159547,0.15
+Actual,Lung cancer,1984,Persons,All ages,6340,2,15544000,40.7874421,40.7874421,0.12
+Actual,Prostate cancer,1984,Persons,All ages,3873,6,15544000,24.91636644,24.91636644,0.08
+TOTAL,Other,1985,Persons,All ages,N/A,N/A,N/A,327.1358724,143.7532167,0.44
+Actual,Breast cancer,1985,Persons,All ages,5980,3,15758000,37.9489783,37.9489783,0.11
+Actual,Colon cancer,1985,Persons,All ages,5442,4,15758000,34.53483945,34.53483945,0.10
+Actual,Colorectal cancer,1985,Persons,All ages,8021,1,15758000,50.90112958,50.90112958,0.15
+Actual,Lung cancer,1985,Persons,All ages,6313,2,15758000,40.06219063,40.06219063,0.12
+Actual,Prostate cancer,1985,Persons,All ages,4155,6,15758000,26.36755933,26.36755933,0.08
+TOTAL,Other,1986,Persons,All ages,N/A,N/A,N/A,335.5311588,145.7164615,0.43
+Actual,Breast cancer,1986,Persons,All ages,6138,3,16018400,38.3184338,38.3184338,0.11
+Actual,Colon cancer,1986,Persons,All ages,5531,4,16018400,34.5290416,34.5290416,0.10
+Actual,Colorectal cancer,1986,Persons,All ages,8067,1,16018400,50.36083504,50.36083504,0.15
+Actual,Lung cancer,1986,Persons,All ages,6463,2,16018400,40.34735055,40.34735055,0.12
+Actual,Prostate cancer,1986,Persons,All ages,4305,6,16018400,26.87534336,26.87534336,0.08
+TOTAL,Other,1987,Persons,All ages,N/A,N/A,N/A,336.51301,146.0820057,0.43
+Actual,Breast cancer,1987,Persons,All ages,6761,3,16263900,41.570595,41.570595,0.12
+Actual,Colon cancer,1987,Persons,All ages,5594,4,16263900,34.39519426,34.39519426,0.10
+Actual,Colorectal cancer,1987,Persons,All ages,8289,1,16263900,50.96563555,50.96563555,0.15
+Actual,Lung cancer,1987,Persons,All ages,6879,2,16263900,42.29612823,42.29612823,0.12
+Actual,Prostate cancer,1987,Persons,All ages,4566,6,16263900,28.07444709,28.07444709,0.08
+TOTAL,Other,1988,Persons,All ages,N/A,N/A,N/A,351.311801,154.0098009,0.44
+Actual,Breast cancer,1988,Persons,All ages,6796,2,16532200,41.10765657,41.10765657,0.12
+Actual,Colon cancer,1988,Persons,All ages,5517,5,16532200,33.37123916,33.37123916,0.09
+Actual,Colorectal cancer,1988,Persons,All ages,8302,1,16532200,50.21715198,50.21715198,0.14
+Actual,Lung cancer,1988,Persons,All ages,6690,3,16532200,40.46648359,40.46648359,0.11
+Actual,Prostate cancer,1988,Persons,All ages,4767,6,16532200,28.83463786,28.83463786,0.08
+TOTAL,Other,1989,Persons,All ages,N/A,N/A,N/A,353.6250469,159.6278777,0.45
+Actual,Breast cancer,1989,Persons,All ages,7249,2,16814400,43.1118565,43.1118565,0.12
+Actual,Colon cancer,1989,Persons,All ages,5883,4,16814400,34.98786754,34.98786754,0.10
+Actual,Colorectal cancer,1989,Persons,All ages,8804,1,16814400,52.35988201,52.35988201,0.15
+Actual,Lung cancer,1989,Persons,All ages,6945,3,16814400,41.30388239,41.30388239,0.11
+Actual,Prostate cancer,1989,Persons,All ages,5317,6,16814400,31.62170521,31.62170521,0.09
+TOTAL,Other,1990,Persons,All ages,N/A,N/A,N/A,360.1615282,156.7763346,0.44
+Actual,Breast cancer,1990,Persons,All ages,7516,2,17065100,44.04310552,44.04310552,0.12
+Actual,Colon cancer,1990,Persons,All ages,5879,5,17065100,34.45042807,34.45042807,0.09
+Actual,Colorectal cancer,1990,Persons,All ages,8913,1,17065100,52.22940387,52.22940387,0.14
+Actual,Lung cancer,1990,Persons,All ages,7149,3,17065100,41.89251748,41.89251748,0.11
+Actual,Prostate cancer,1990,Persons,All ages,6137,4,17065100,35.9622856,35.9622856,0.10
+TOTAL,Other,1991,Persons,All ages,N/A,N/A,N/A,370.457835,161.8800945,0.44
+Actual,Breast cancer,1991,Persons,All ages,8105,2,17284000,46.89308031,46.89308031,0.12
+Actual,Colon cancer,1991,Persons,All ages,6438,5,17284000,37.24832215,37.24832215,0.10
+Actual,Colorectal cancer,1991,Persons,All ages,9662,1,17284000,55.90141171,55.90141171,0.15
+Actual,Lung cancer,1991,Persons,All ages,7164,3,17284000,41.44873872,41.44873872,0.11
+Actual,Prostate cancer,1991,Persons,All ages,6754,4,17284000,39.07660264,39.07660264,0.10
+TOTAL,Other,1992,Persons,All ages,N/A,N/A,N/A,384.0951169,163.5269613,0.43
+Actual,Breast cancer,1992,Persons,All ages,8072,2,17495000,46.13889683,46.13889683,0.12
+Actual,Colon cancer,1992,Persons,All ages,6419,6,17495000,36.690483,36.690483,0.09
+Actual,Colorectal cancer,1992,Persons,All ages,9748,1,17495000,55.71877679,55.71877679,0.14
+Actual,Lung cancer,1992,Persons,All ages,7191,4,17495000,41.10317233,41.10317233,0.10
+Actual,Prostate cancer,1992,Persons,All ages,7929,3,17495000,45.32152043,45.32152043,0.11
+TOTAL,Other,1993,Persons,All ages,N/A,N/A,N/A,397.4392684,172.466419,0.43
+Actual,Breast cancer,1993,Persons,All ages,8856,3,17667000,50.12735609,50.12735609,0.12
+Actual,Colon cancer,1993,Persons,All ages,6559,6,17667000,37.12571461,37.12571461,0.09
+Actual,Colorectal cancer,1993,Persons,All ages,9929,2,17667000,56.2008264,56.2008264,0.13
+Actual,Lung cancer,1993,Persons,All ages,7329,4,17667000,41.48412294,41.48412294,0.10
+Actual,Prostate cancer,1993,Persons,All ages,11193,1,17667000,63.35540839,63.35540839,0.15
+TOTAL,Other,1994,Persons,All ages,N/A,N/A,N/A,419.8845305,171.5911021,0.41
+Actual,Breast cancer,1994,Persons,All ages,9827,3,17855000,55.03780454,55.03780454,0.12
+Actual,Colon cancer,1994,Persons,All ages,6755,6,17855000,37.8325399,37.8325399,0.09
+Actual,Colorectal cancer,1994,Persons,All ages,10343,2,17855000,57.92775133,57.92775133,0.13
+Actual,Lung cancer,1994,Persons,All ages,7680,4,17855000,43.01316158,43.01316158,0.10
+Actual,Prostate cancer,1994,Persons,All ages,13100,1,17855000,73.36880426,73.36880426,0.17
+TOTAL,Other,1995,Persons,All ages,N/A,N/A,N/A,442.7275273,175.5474657,0.40
+Actual,Breast cancer,1995,Persons,All ages,10145,3,18072000,56.13656485,56.13656485,0.13
+Actual,Colon cancer,1995,Persons,All ages,6903,6,18072000,38.19721116,38.19721116,0.09
+Actual,Colorectal cancer,1995,Persons,All ages,10585,2,18072000,58.57127047,58.57127047,0.13
+Actual,Lung cancer,1995,Persons,All ages,7560,4,18072000,41.83266932,41.83266932,0.09
+Actual,Prostate cancer,1995,Persons,All ages,12418,1,18072000,68.71403276,68.71403276,0.16
+TOTAL,Other,1996,Persons,All ages,N/A,N/A,N/A,442.5132802,179.0615317,0.40
+Actual,Breast cancer,1996,Persons,All ages,9836,3,18311000,53.71634537,53.71634537,0.12
+Actual,Colon cancer,1996,Persons,All ages,7163,6,18311000,39.11856261,39.11856261,0.09
+Actual,Colorectal cancer,1996,Persons,All ages,10941,1,18311000,59.75096936,59.75096936,0.14
+Actual,Lung cancer,1996,Persons,All ages,7803,5,18311000,42.61372945,42.61372945,0.10
+Actual,Prostate cancer,1996,Persons,All ages,10359,2,18311000,56.57255202,56.57255202,0.13
+TOTAL,Other,1997,Persons,All ages,N/A,N/A,N/A,433.4989897,181.7268309,0.42
+Actual,Breast cancer,1997,Persons,All ages,10285,2,18517000,55.54355457,55.54355457,0.13
+Actual,Colon cancer,1997,Persons,All ages,7335,6,18517000,39.6122482,39.6122482,0.09
+Actual,Colorectal cancer,1997,Persons,All ages,11202,1,18517000,60.49576065,60.49576065,0.14
+Actual,Lung cancer,1997,Persons,All ages,8013,5,18517000,43.27374845,43.27374845,0.10
+Actual,Prostate cancer,1997,Persons,All ages,10022,3,18517000,54.12323811,54.12323811,0.12
+TOTAL,Other,1998,Persons,All ages,N/A,N/A,N/A,438.2243344,185.1757844,0.42
+Actual,Breast cancer,1998,Persons,All ages,10851,2,18711000,57.99262466,57.99262466,0.13
+Actual,Colon cancer,1998,Persons,All ages,7383,6,18711000,39.45807279,39.45807279,0.09
+Actual,Colorectal cancer,1998,Persons,All ages,11240,1,18711000,60.07161563,60.07161563,0.14
+Actual,Lung cancer,1998,Persons,All ages,8032,4,18711000,42.9266207,42.9266207,0.10
+Actual,Prostate cancer,1998,Persons,All ages,10146,3,18711000,54.22478756,54.22478756,0.12
+TOTAL,Other,1999,Persons,All ages,N/A,N/A,N/A,441.4782748,186.8045535,0.42
+Actual,Breast cancer,1999,Persons,All ages,10763,2,18926000,56.86885766,56.86885766,0.13
+Actual,Colon cancer,1999,Persons,All ages,7738,6,18926000,40.88555426,40.88555426,0.09
+Actual,Colorectal cancer,1999,Persons,All ages,11754,1,18926000,62.10504068,62.10504068,0.14
+Actual,Lung cancer,1999,Persons,All ages,8052,5,18926000,42.54464757,42.54464757,0.10
+Actual,Prostate cancer,1999,Persons,All ages,10663,3,18926000,56.34048399,56.34048399,0.13
+TOTAL,Other,2000,Persons,All ages,N/A,N/A,N/A,446.8825954,188.1380112,0.42
+Actual,Breast cancer,2000,Persons,All ages,11501,2,19153000,60.04803425,60.04803425,0.13
+Actual,Colon cancer,2000,Persons,All ages,8136,6,19153000,42.47898502,42.47898502,0.09
+Actual,Colorectal cancer,2000,Persons,All ages,12378,1,19153000,64.62695139,64.62695139,0.14
+Actual,Lung cancer,2000,Persons,All ages,8274,5,19153000,43.19949877,43.19949877,0.09
+Actual,Prostate cancer,2000,Persons,All ages,10980,3,19153000,57.32783376,57.32783376,0.12
+TOTAL,Other,2001,Persons,All ages,N/A,N/A,N/A,458.8993891,191.2180859,0.42
+Actual,Breast cancer,2001,Persons,All ages,11941,2,19413000,61.51032813,61.51032813,0.13
+Actual,Colon cancer,2001,Persons,All ages,8444,5,19413000,43.49662597,43.49662597,0.09
+Actual,Colorectal cancer,2001,Persons,All ages,12806,1,19413000,65.96610519,65.96610519,0.14
+Actual,Lung cancer,2001,Persons,All ages,8437,6,19413000,43.46056766,43.46056766,0.09
+Actual,Prostate cancer,2001,Persons,All ages,11486,3,19413000,59.16653789,59.16653789,0.13
+TOTAL,Other,2002,Persons,All ages,N/A,N/A,N/A,465.6158244,192.0156596,0.41
+Actual,Breast cancer,2002,Persons,All ages,12192,3,19651400,62.04138128,62.04138128,0.13
+Actual,Colon cancer,2002,Persons,All ages,8233,6,19651400,41.89523393,41.89523393,0.09
+Actual,Colorectal cancer,2002,Persons,All ages,12572,1,19651400,63.97508574,63.97508574,0.13
+Actual,Lung cancer,2002,Persons,All ages,8606,5,19651400,43.79331752,43.79331752,0.09
+Actual,Prostate cancer,2002,Persons,All ages,12313,2,19651400,62.65711349,62.65711349,0.13
+TOTAL,Other,2003,Persons,All ages,N/A,N/A,N/A,479.4162248,205.0540928,0.43
+Actual,Breast cancer,2003,Persons,All ages,11985,3,19895400,60.24005549,60.24005549,0.12
+Actual,Colon cancer,2003,Persons,All ages,8263,6,19895400,41.53221348,41.53221348,0.09
+Actual,Colorectal cancer,2003,Persons,All ages,12688,2,19895400,63.77353559,63.77353559,0.13
+Actual,Lung cancer,2003,Persons,All ages,8501,5,19895400,42.7284699,42.7284699,0.09
+Actual,Prostate cancer,2003,Persons,All ages,13951,1,19895400,70.12173668,70.12173668,0.15
+TOTAL,Other,2004,Persons,All ages,N/A,N/A,N/A,481.9757331,203.5797219,0.42
+Actual,Breast cancer,2004,Persons,All ages,12336,3,20127400,61.28958534,61.28958534,0.12
+Actual,Colon cancer,2004,Persons,All ages,8638,6,20127400,42.91662112,42.91662112,0.09
+Actual,Colorectal cancer,2004,Persons,All ages,13116,2,20127400,65.16489959,65.16489959,0.13
+Actual,Lung cancer,2004,Persons,All ages,9292,5,20127400,46.16592307,46.16592307,0.09
+Actual,Prostate cancer,2004,Persons,All ages,16144,1,20127400,80.20906824,80.20906824,0.16
+TOTAL,Other,2005,Persons,All ages,N/A,N/A,N/A,501.2172461,205.4711488,0.41
+Actual,Breast cancer,2005,Persons,All ages,12399,3,20394800,60.79490851,60.79490851,0.12
+Actual,Colon cancer,2005,Persons,All ages,8729,6,20394800,42.80012552,42.80012552,0.08
+Actual,Colorectal cancer,2005,Persons,All ages,13248,2,20394800,64.95773432,64.95773432,0.13
+Actual,Lung cancer,2005,Persons,All ages,9415,5,20394800,46.16372801,46.16372801,0.09
+Actual,Prostate cancer,2005,Persons,All ages,16946,1,20394800,83.08980721,83.08980721,0.16
+TOTAL,Other,2006,Persons,All ages,N/A,N/A,N/A,510.546806,212.7405025,0.42
+Actual,Breast cancer,2006,Persons,All ages,12840,3,20697900,62.03527894,62.03527894,0.12
+Actual,Colon cancer,2006,Persons,All ages,9092,6,20697900,43.92716169,43.92716169,0.08
+Actual,Colorectal cancer,2006,Persons,All ages,13811,2,20697900,66.72657613,66.72657613,0.13
+Actual,Lung cancer,2006,Persons,All ages,9778,5,20697900,47.24150759,47.24150759,0.09
+Actual,Prostate cancer,2006,Persons,All ages,17902,1,20697900,86.49186632,86.49186632,0.17
+TOTAL,Other,2007,Persons,All ages,N/A,N/A,N/A,517.2891936,210.8668029,0.41
+Actual,Breast cancer,2007,Persons,All ages,12788,3,20827600,61.39929709,61.39929709,0.12
+Actual,Colon cancer,2007,Persons,All ages,9479,6,20827600,45.51172483,45.51172483,0.09
+Actual,Colorectal cancer,2007,Persons,All ages,14482,2,20827600,69.53273541,69.53273541,0.13
+Actual,Lung cancer,2007,Persons,All ages,9974,5,20827600,47.88837888,47.88837888,0.09
+Actual,Prostate cancer,2007,Persons,All ages,19802,1,20827600,95.07576485,95.07576485,0.18
+TOTAL,Other,2008,Persons,All ages,N/A,N/A,N/A,533.455607,214.0477059,0.40
+Actual,Breast cancer,2008,Persons,All ages,13809,3,21249200,64.98597594,64.98597594,0.12
+Actual,Colon cancer,2008,Persons,All ages,9627,6,21249200,45.30523502,45.30523502,0.08
+Actual,Colorectal cancer,2008,Persons,All ages,14438,2,21249200,67.94608738,67.94608738,0.13
+Actual,Lung cancer,2008,Persons,All ages,10223,5,21249200,48.1100465,48.1100465,0.09
+Actual,Prostate cancer,2008,Persons,All ages,21141,1,21249200,99.49080436,99.49080436,0.18
+TOTAL,Other,2009,Persons,All ages,N/A,N/A,N/A,541.8368692,215.99872,0.40
+Actual,Breast cancer,2009,Persons,All ages,13935,3,21691700,64.24116137,64.24116137,0.12
+Actual,Colon cancer,2009,Persons,All ages,9620,6,21691700,44.34876012,44.34876012,0.08
+Actual,Colorectal cancer,2009,Persons,All ages,14408,2,21691700,66.42171891,66.42171891,0.12
+Actual,Lung cancer,2009,Persons,All ages,10423,5,21691700,48.05063688,48.05063688,0.09
+Actual,Prostate cancer,2009,Persons,All ages,22150,1,21691700,102.1127897,102.1127897,0.19
+TOTAL,Other,2010,Persons,All ages,N/A,N/A,N/A,543.9546001,218.7795332,0.40
+Actual,Breast cancer,2010,Persons,All ages,14525,3,22031750,65.92758179,65.92758179,0.12
+Actual,Colon cancer,2010,Persons,All ages,10060,6,22031750,45.66137506,45.66137506,0.08
+Actual,Colorectal cancer,2010,Persons,All ages,15094,2,22031750,68.51021821,68.51021821,0.13
+Actual,Lung cancer,2010,Persons,All ages,10536,5,22031750,47.8218934,47.8218934,0.09
+Actual,Prostate cancer,2010,Persons,All ages,20193,1,22031750,91.65409012,91.65409012,0.17
+TOTAL,Other,2011,Persons,All ages,N/A,N/A,N/A,542.8166169,223.2414583,0.41
+Actual,Breast cancer,2011,Persons,All ages,14684,3,22340024,65.72956233,65.72956233,0.12
+Actual,Colon cancer,2011,Persons,All ages,10134,6,22340024,45.3625296,45.3625296,0.08
+Actual,Colorectal cancer,2011,Persons,All ages,15176,2,22340024,67.93188763,67.93188763,0.12
+Actual,Lung cancer,2011,Persons,All ages,10642,5,22340024,47.63647523,47.63647523,0.09
+Actual,Prostate cancer,2011,Persons,All ages,20652,1,22340024,92.44394724,92.44394724,0.17
+TOTAL,Other,2012,Persons,All ages,N/A,N/A,N/A,545.5007568,226.3963548,0.42
+Actual,Breast cancer,2012,Persons,All ages,15481,2,22733465,68.09784606,68.09784606,0.12
+Actual,Colon cancer,2012,Persons,All ages,10140,6,22733465,44.60384724,44.60384724,0.08
+Actual,Colorectal cancer,2012,Persons,All ages,14926,3,22733465,65.65651123,65.65651123,0.12
+Actual,Lung cancer,2012,Persons,All ages,11265,5,22733465,49.55249893,49.55249893,0.09
+Actual,Prostate cancer,2012,Persons,All ages,20814,1,22733465,91.55665447,91.55665447,0.17
+TOTAL,Other,2013,Persons,All ages,N/A,N/A,N/A,553.5363835,234.0690255,0.42
+Actual,Breast cancer,2013,Persons,All ages,16601,2,23128129,71.77839591,71.77839591,0.13
+Actual,Colon cancer,2013,Persons,All ages,9894,6,23128129,42.77907651,42.77907651,0.08
+Actual,Colorectal cancer,2013,Persons,All ages,14683,3,23128129,63.48546396,63.48546396,0.12
+Actual,Lung cancer,2013,Persons,All ages,11361,5,23128129,49.12200204,49.12200204,0.09
+Actual,Prostate cancer,2013,Persons,All ages,19716,1,23128129,85.24684379,85.24684379,0.15
+TOTAL,Other,2014,Persons,All ages,N/A,N/A,N/A,550.3774214,237.9656392,0.43
+Actual,Breast cancer,2014,Persons,All ages,17109,2,23475686,72.87965941,72.87965941,0.13
+Actual,Colon cancer,2014,Persons,All ages,10210,6,23475686,43.4918068,43.4918068,0.08
+Actual,Colorectal cancer,2014,Persons,All ages,15021,3,23475686,63.98535063,63.98535063,0.12
+Actual,Lung cancer,2014,Persons,All ages,11580,5,23475686,49.327632,49.327632,0.09
+Actual,Prostate cancer,2014,Persons,All ages,18595,1,23475686,79.20961287,79.20961287,0.14
+TOTAL,Other,2015,Persons,All ages,N/A,N/A,N/A,552.5759716,243.6819099,0.44
+Actual,Breast cancer,2015,Persons,All ages,17126,2,23815995,71.90965567,71.90965567,0.13
+Actual,Colon cancer,2015,Persons,All ages,10531,6,23815995,44.21818194,44.21818194,0.08
+Actual,Colorectal cancer,2015,Persons,All ages,15527,3,23815995,65.19568047,65.19568047,0.12
+Actual,Lung cancer,2015,Persons,All ages,11821,5,23815995,49.63470978,49.63470978,0.09
+Actual,Prostate cancer,2015,Persons,All ages,19182,1,23815995,80.54250935,80.54250935,0.14
+TOTAL,Other,2016,Persons,All ages,N/A,N/A,N/A,556.9786188,245.4778816,0.44
+Actual,Breast cancer,2016,Persons,All ages,17492,2,24190907,72.30816108,72.30816108,0.13
+Actual,Colon cancer,2016,Persons,All ages,10450,6,24190907,43.19804958,43.19804958,0.08
+Actual,Colorectal cancer,2016,Persons,All ages,15352,3,24190907,63.46186193,63.46186193,0.11
+Actual,Lung cancer,2016,Persons,All ages,12216,5,24190907,50.49831327,50.49831327,0.09
+Actual,Prostate cancer,2016,Persons,All ages,19305,1,24190907,79.80271265,79.80271265,0.14
+TOTAL,Other,2017,Persons,All ages,N/A,N/A,N/A,558.610721,249.3416225,0.45
