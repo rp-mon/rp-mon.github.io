@@ -1,4 +1,4 @@
-﻿Data type,Cancer group/site,Year,Sex,Age group (years),Count,Yearly_Count,Population,PopAdjCount
+﻿Data type,Cancer group/site,Year,Sex,Age group,Count,Yearly_Count,Population,PopAdjCount
 Actual,Breast cancer,1982,Persons,All ages,5374,3,15178000,354.0650942
 Actual,Colon cancer,1982,Persons,All ages,4563,4,15178000,300.6324944
 Actual,Colorectal cancer,1982,Persons,All ages,6994,1,15178000,460.7985242
