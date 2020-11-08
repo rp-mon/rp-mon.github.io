@@ -9,8 +9,8 @@
   },
   "mark": "point",
   "encoding": {
-    "x": {"field": "Count", "type": "quantitative"},
-    "y": {"field": "Deaths", "type": "quantitative"},
+    "x": {"field": "Count", "type": "quantitative","title": "Total Incidence"},
+    "y": {"field": "Deaths", "type": "quantitative", "title": "Total Deaths"},
     "tooltip": [
       {"field": "Cancer group/site", "type": "nominal"},
       {"field": "Count", "type": "quantitative", "title": "Incidence rate"},
@@ -30,7 +30,5 @@
       }
     }
   ],
-  "transform":[
-    {"filter": "datum.Count < Incidence_max"}
-  ]
+  "transform": [{"filter": "datum.Count < Incidence_max"}]
 }
