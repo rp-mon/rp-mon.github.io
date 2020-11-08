@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": "container",
-  "height": 300,
-  "description": "Global cancer incidence rates boxplot by development",
+  "height": 350,
+  "title": "Common Australian Cancer quantities, temporal",
   "config": {"background": "#f0f7fa"},
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/topcancerdata.csv"
@@ -17,8 +17,8 @@
   },
   "encoding": {
     "x": {"field": "Year", "type": "temporal"},
-    "y": {"field": "PopAdjCount", "type": "quantitative"},
-    "color": {"field": "Cancer group/site", "type": "nominal"},
+    "y": {"field": "PopAdjCount", "type": "quantitative", "title":"Cancer incidence (per 10,000)"},
+    "color": {"field": "Cancer group/site", "type": "nominal", "title":"Cancer type"},
     "opacity": {
       "condition": {"selection": "cancer_highlight", "value": 1},
       "value": 0
