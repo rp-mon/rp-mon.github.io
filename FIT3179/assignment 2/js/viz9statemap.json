@@ -1,14 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "2016 Cancer Incidence Rates, normalised by population",
+  "title": "Australian Cancer Incidence Rates, normalised by population",
   "width": "container",
-  "height": 300,
+  "height": 350,
   "config": {"background": "#f0f7fa"},
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/ausmapmain.json",
     "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
   },
-    "transform": [
+  "transform": [
     {
       "lookup": "properties.name",
       "from": {
@@ -16,23 +16,21 @@
           "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/statedata.csv"
         },
         "key": "State_1",
-        "fields": [
-          "State_1",
-          "Count"
-        ]
+        "fields": ["State_1", "Count"]
       }
     }
-    ],
+  ],
   "projection": {"type": "azimuthalEqualArea", "rotate": [-132, 28, 0]},
   "mark": {"type": "geoshape"},
   "encoding": {
-    "color": {
-      "field":"Count",
-      "type": "quantitative"
-    },
+    "color": {"field": "Count", "type": "quantitative", "legend":{"title":"Cancer rate"}},
     "tooltip": [
-      {"field": "State_1", "type": "nominal","title":"State"},
-      {"field": "Count", "type": "nominal","title":"Incidence Rate (per 100,000)"}
+      {"field": "State_1", "type": "nominal", "title": "State"},
+      {
+        "field": "Count",
+        "type": "nominal",
+        "title": "Incidence Rate (per 100,000)"
+      }
     ]
   }
 }
