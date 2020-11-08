@@ -8,6 +8,12 @@
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/globalcancerdatalifeexpectancy.csv"
   },
   "mark": "circle",
+  "selection": {
+    "cancer_highlight": {
+      "type": "multi",
+      "fields": ["Continent"],
+      "bind": "legend"
+  }},
   "encoding": {
     "x": {
       "field": "Life Expectancy",
@@ -16,6 +22,10 @@
       "title": "Life Expectancy (years)"
     },
     "y": {"field": "Amount", "type": "quantitative", "title": "Cancer Rate (per 100,000)"},
+        "opacity": {
+      "condition": {"selection": "cancer_highlight", "value": 0.7},
+      "value": 0
+    },
     "tooltip": [
       {"field": "Country", "type": "nominal"},
       {"field": "Amount", "type": "quantitative", "title": "Incidence rate"},
