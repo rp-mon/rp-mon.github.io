@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 450,
+  "width": "container",
   "height": 450,
   "title": "Global cancer incidence rates and HDI",
   "config": {

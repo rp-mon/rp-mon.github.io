@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Age-standardized new cancer rates (2018), per 100,000 people",
-  "width": 1000,
+  "width": "container",
   "height": 500,
   "config": {
   "background": "#f0f7fa"
