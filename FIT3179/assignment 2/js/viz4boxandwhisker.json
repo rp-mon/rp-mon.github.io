@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width":"container",
   "height":300,
-  "title": "Global cancer incidence rates boxplot by development",
+  "title": "Global cancer incidence rates boxplot, by development",
   "config": {"background": "#f0f7fa"},
   "data": {"url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"},
   "mark": {
@@ -10,11 +10,12 @@
     "extent": "min-max"
   },
   "encoding": {
-    "x": {"field": "Development Index", "type": "nominal"},
+    "x": {"field": "Development Index", "type": "nominal", "title": "Country Development Classification"},
     "y": {
       "field": "Amount",
       "type": "quantitative",
-      "scale": {"zero": false}
+      "scale": {"zero": false},
+      "title": "Cancer rate (per 100,000)"
     }
   }
 }
