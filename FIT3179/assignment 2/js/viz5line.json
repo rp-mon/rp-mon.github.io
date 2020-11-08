@@ -16,7 +16,7 @@
     }
   },
   "encoding": {
-    "x": {"timeUnit": "year", "field": "Year", "type": "temporal"},
+    "x": {"timeUnit": "year", "field": "Year", "type": "temporal", "title":"Year"},
     "y": {"field": "PopAdjCount", "type": "quantitative", "title": "Cancer incidence rate"},
     "color": {"field": "Cancer group/site", "type": "nominal"},
     "opacity": {
