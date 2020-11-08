@@ -1,32 +1,32 @@
 ﻿Data type,Cancer group/site,Year,Sex,Age group (years),Count,Yearly_Count,Classification,Deaths
 Actual,Acute lymphoblastic leukaemia (ALL),2016,Persons,All ages,361,44,Other,97
-Actual,Prostate cancer,2016,Persons,All ages,"19,305",1,Prostate cancer,3253
-Actual,Breast cancer,2016,Persons,All ages,"17,492",2,Breast cancer,3016
-Actual,Colorectal cancer,2016,Persons,All ages,"15,352",3,Colorectal cancer,5401
-Actual,Melanoma of the skin,2016,Persons,All ages,"14,485",4,Melanoma of the skin,1276
-Actual,Lung cancer,2016,Persons,All ages,"12,216",5,Lung cancer,8380
-Actual,Colon cancer,2016,Persons,All ages,"10,450",6,Colon cancer,1758
-Actual,Lymphoma,2016,Persons,All ages,"6,000",7,Lymphoma,1559
-Actual,Gynaecological cancers,2016,Persons,All ages,"5,767",8,Gynaecological cancers,1895
-Actual,Non-Hodgkin lymphoma,2016,Persons,All ages,"5,315",9,Non-Hodgkin lymphoma,1483
-Actual,Rectal cancer,2016,Persons,All ages,"4,903",10,Rectal cancer,2595
-Actual,Leukaemia,2016,Persons,All ages,"4,225",11,Other,1840
-Actual,Kidney cancer,2016,Persons,All ages,"3,627",13,Other,957
-Actual,Pancreatic cancer,2016,Persons,All ages,"3,378",14,Other,2905
-Actual,Thyroid cancer,2016,Persons,All ages,"2,973",15,Other,139
-Actual,Bladder cancer,2016,Persons,All ages,"2,790",16,Other,1013
-Actual,Uterine cancer,2016,Persons,All ages,"2,743",17,Other,525
-Actual,Cancer of unknown primary site,2016,Persons,All ages,"2,482",18,Other,2529
-Actual,Stomach cancer,2016,Persons,All ages,"2,197",19,Other,1095
-Actual,Liver cancer,2016,Persons,All ages,"2,170",20,Other,1890
-Actual,Multiple myeloma,2016,Persons,All ages,"1,948",21,Other,902
-Actual,Chronic lymphocytic leukaemia (CLL),2016,Persons,All ages,"1,836",22,Other,344
-Actual,Brain cancer,2016,Persons,All ages,"1,771",23,Other,1460
-Actual,Oesophageal cancer,2016,Persons,All ages,"1,489",25,Other,1345
-Actual,Myelodysplastic syndromes,2016,Persons,All ages,"1,421",26,Other,440
-Actual,Ovarian cancer,2016,Persons,All ages,"1,289",27,Other,956
-Actual,Acute myeloid leukaemia (AML),2016,Persons,All ages,"1,029",29,Other,980
-Actual,Cancer of the gallbladder and extrahepatic bile ducts,2016,Persons,All ages,"1,018",30,Other,280
+Actual,Prostate cancer,2016,Persons,All ages,19305,1,Prostate cancer,3253
+Actual,Breast cancer,2016,Persons,All ages,17492,2,Breast cancer,3016
+Actual,Colorectal cancer,2016,Persons,All ages,15352,3,Colorectal cancer,5401
+Actual,Melanoma of the skin,2016,Persons,All ages,14485,4,Melanoma of the skin,1276
+Actual,Lung cancer,2016,Persons,All ages,12216,5,Lung cancer,8380
+Actual,Colon cancer,2016,Persons,All ages,10450,6,Colon cancer,1758
+Actual,Lymphoma,2016,Persons,All ages,6000,7,Lymphoma,1559
+Actual,Gynaecological cancers,2016,Persons,All ages,5767,8,Gynaecological cancers,1895
+Actual,Non-Hodgkin lymphoma,2016,Persons,All ages,5315,9,Non-Hodgkin lymphoma,1483
+Actual,Rectal cancer,2016,Persons,All ages,4903,10,Rectal cancer,2595
+Actual,Leukaemia,2016,Persons,All ages,4225,11,Other,1840
+Actual,Kidney cancer,2016,Persons,All ages,3627,13,Other,957
+Actual,Pancreatic cancer,2016,Persons,All ages,3378,14,Other,2905
+Actual,Thyroid cancer,2016,Persons,All ages,2973,15,Other,139
+Actual,Bladder cancer,2016,Persons,All ages,2790,16,Other,1013
+Actual,Uterine cancer,2016,Persons,All ages,2743,17,Other,525
+Actual,Cancer of unknown primary site,2016,Persons,All ages,2482,18,Other,2529
+Actual,Stomach cancer,2016,Persons,All ages,2197,19,Other,1095
+Actual,Liver cancer,2016,Persons,All ages,2170,20,Other,1890
+Actual,Multiple myeloma,2016,Persons,All ages,1948,21,Other,902
+Actual,Chronic lymphocytic leukaemia (CLL),2016,Persons,All ages,1836,22,Other,344
+Actual,Brain cancer,2016,Persons,All ages,1771,23,Other,1460
+Actual,Oesophageal cancer,2016,Persons,All ages,1489,25,Other,1345
+Actual,Myelodysplastic syndromes,2016,Persons,All ages,1421,26,Other,440
+Actual,Ovarian cancer,2016,Persons,All ages,1289,27,Other,956
+Actual,Acute myeloid leukaemia (AML),2016,Persons,All ages,1029,29,Other,980
+Actual,Cancer of the gallbladder and extrahepatic bile ducts,2016,Persons,All ages,1018,30,Other,280
 Actual,Tongue cancer,2016,Persons,All ages,941,31,Other,221
 Actual,Cervical cancer,2016,Persons,All ages,889,32,Other,256
 Actual,Testicular cancer,2016,Persons,All ages,850,33,Other,24
