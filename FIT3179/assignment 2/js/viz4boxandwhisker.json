@@ -1,16 +1,33 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width":"container",
-  "height":300,
+  "width": "container",
+  "height": 300,
   "title": "Global cancer incidence rates boxplot, by development",
   "config": {"background": "#f0f7fa"},
-  "data": {"url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"},
-  "mark": {
-    "type": "boxplot",
-    "extent": "min-max"
+  "data": {
+    "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/vega_lite2/global-cancer-data4.csv"
   },
+  "params": [
+    {
+      "name": "selectCont",
+      "bind": {
+        "input": "select",
+        "options": [null, "North America", "South America", "Europe", "Africa", "Asia", "Oceania"],
+        "labels": ["Show All", "North America", "South America", "Europe", "Africa", "Asia", "Oceania"],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "selectCont == null || datum['Continent'] == selectCont"}
+  ],
+  "mark": {"type": "boxplot", "extent": "min-max"},
   "encoding": {
-    "x": {"field": "Development Index", "type": "nominal", "title": "Country Development Classification"},
+    "x": {
+      "field": "Development Index",
+      "type": "nominal",
+      "title": "Country Development Classification"
+    },
     "y": {
       "field": "Amount",
       "type": "quantitative",
