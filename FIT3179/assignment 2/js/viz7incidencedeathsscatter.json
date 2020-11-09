@@ -2,18 +2,18 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": "container",
   "height": 300,
-  "title": "All Australian Cancers Total Incidence vs Deaths ",
+  "title": "All Australian Cancers Total Cases vs Deaths ",
   "config": {"background": "#f0f7fa"},
   "data": {
     "url": "https://raw.githubusercontent.com/rp-mon/rp-mon.github.io/master/FIT3179/assignment%202/deathvsincidence.csv"
   },
   "mark": "point",
   "encoding": {
-    "x": {"field": "Count", "type": "quantitative","title": "Total Incidence"},
+    "x": {"field": "Count", "type": "quantitative","title": "Total Cases of Cancer Type"},
     "y": {"field": "Deaths", "type": "quantitative", "title": "Total Deaths"},
     "tooltip": [
       {"field": "Cancer group/site", "type": "nominal"},
-      {"field": "Count", "type": "quantitative", "title": "Incidence rate"},
+      {"field": "Count", "type": "quantitative", "title": "Cancer cases"},
       {"field": "Deaths", "type": "quantitative", "title": "Death rate"}
     ]
   },
