@@ -1,173 +1,173 @@
-﻿Country,Amount,Continent,Development Index,HDI,Life Expectancy
-Australia,468.1,Oceania,Developed,0.938,83.94
-New Zealand,438.1,Oceania,Developed,0.921,82.8
-Ireland,373.7,Europe,Developed,0.942,82.81
-Hungary,368.1,Europe,Developed,0.845,77.31
-United States of America,352.2,North America,Developed,0.92,79.11
-Belgium,345.8,Europe,Developed,0.919,82.17
-France,344.1,Europe,Developed,0.891,83.13
-Denmark,340.4,Europe,Developed,0.93,81.4
-Norway,337.8,Europe,Developed,0.954,82.94
-Netherlands,334.1,Europe,Developed,0.933,82.78
-Canada,334.1,North America,Developed,0.922,82.96
-United Kingdom,319.2,Europe,Developed,0.92,81.77
-South Korea,313.5,Asia,Developed,0.906,83.5
-Germany,313.1,Europe,Developed,0.939,81.88
-Switzerland,311.1,Europe,Developed,0.946,84.25
-Luxembourg,309.3,Europe,Developed,0.909,82.79
-Serbia,307.8,Europe,Developing,0.799,76.47
-Slovenia,304.9,Europe,Developed,0.902,81.85
-Latvia,302.2,Europe,Developed,0.854,75.73
-Slovakia,297.5,Europe,Developed,0.857,78
-Czechia,296.7,Europe,Developed,0.891,79.85
-Sweden,294.7,Europe,Developed,0.937,83.33
-Italy,290.6,Europe,Developed,0.883,84.01
-Croatia,287.2,Europe,Developing,0.837,79.02
-Lithuania,285.8,Europe,Developed,0.869,76.41
-Estonia,283.3,Europe,Developed,0.882,79.18
-Greece,279.8,Europe,Developed,0.872,82.8
-Spain,272.3,Europe,Developed,0.893,83.99
-Finland,266.3,Europe,Developed,0.925,82.48
-Uruguay,263.4,South America,Developing,0.808,78.43
-Belarus,260.7,Europe,Developing,0.817,75.2
-Portugal,259.5,Europe,Developed,0.85,82.65
-Iceland,257.8,Europe,Developed,0.938,83.52
-Moldova,254.3,Europe,Developing,0.711,72.3
-Poland,253.8,Europe,Developed,0.872,79.27
-Cyprus,250.8,Asia,Developed,0.873,81.51
-Malta,249.4,Europe,Developed,0.885,83.06
-Singapore,248.9,Asia,Developed,0.935,84.07
-Japan,248.1,Asia,Developed,0.915,85.03
-Austria,247.7,Europe,Developed,0.914,82.05
-Barbados,247.5,North America,Developing,0.813,79.64
-Lebanon,242.8,Asia,Developing,0.73,79.27
-Bulgaria,242.8,Europe,Developing,0.816,75.49
-Israel,233.5,Asia,Developed,0.906,83.49
-Macedonia,230.8,Europe,Developing,0.759,76.26
-Mongolia,229.2,Asia,Developing,0.735,70.53
-Turkey,225.1,Asia,Developing,0.806,78.45
-Romania,222.4,Europe,Developing,0.816,76.5
-Russia,222.1,Europe,Developing,0.824,72.99
-Montenegro,221.9,Europe,Developing,0.816,77.39
-Ukraine,220.9,Europe,Developing,0.75,72.5
-Bosnia and Herz.,220.3,Europe,Developing,0.769,77.93
-Brunei,220.2,Asia,Developing,0.845,76.35
-Argentina,218.1,South America,Developing,0.83,77.17
-Brazil,217.2,South America,Developing,0.761,76.57
-Cuba,216.5,North America,Developing,0.778,79.18
-South Africa,213.5,Africa,Developing,0.705,64.88
-Samoa,207.4,Oceania,Developing,0.707,73.75
-Jamaica,203.7,North America,Developing,0.726,74.88
-Papua New Guinea,202.4,Oceania,Developing,0.543,65.22
-China,201.7,Asia,Developing,0.758,77.47
-Costa Rica,197.7,North America,Developing,0.794,80.94
-Zimbabwe,197.5,Africa,Developing,0.563,62.16
-Chile,195.5,South America,Developed,0.847,80.74
-Armenia,194.8,Asia,Developing,0.76,75.55
-Peru,192.6,South America,Developing,0.759,77.44
-Venezuela,187.5,South America,Developing,0.726,72.34
-Bahamas,181.4,North America,Developing,0.805,74.28
-Colombia,178.8,South America,Developing,0.761,77.87
-Trinidad and Tobago,177.4,North America,Developing,0.799,73.91
-Kenya,175.5,Africa,Developing,0.579,67.47
-Paraguay,175.5,South America,Developing,0.724,74.59
-Albania,173.9,Europe,Developing,0.791,78.96
-Panama,173.1,North America,Developing,0.795,79.1
-Suriname,172.6,South America,Developing,0.724,72.13
-Kazakhstan,170.1,Asia,Developing,0.817,73.9
-Syria,169.9,Asia,Developing,0.549,76.06
-Malawi,166.3,Africa,Developing,0.485,65.62
-Fiji,164.1,Oceania,Developing,0.724,67.91
-Dominican Rep.,163.9,North America,Developing,0.745,74.65
-Philippines,163.3,Asia,Developing,0.712,71.66
-Thailand,158.2,Asia,Developing,0.765,77.74
-Jordan,157.8,Asia,Developing,0.723,75.01
-Saint Lucia,157.7,North America,Developing,0.745,76.67
-Ecuador,157.2,South America,Developing,0.758,77.71
-Egypt,156.9,Africa,Developing,0.7,72.54
-Laos,154.3,Asia,Developing,0.604,68.89
-Mauritius,153.2,Africa,Developing,0.796,75.51
-Uganda,151.4,Africa,Developing,0.528,64.38
-Vietnam,151.4,Asia,Developing,0.693,75.77
-Georgia,143.2,Asia,Developing,0.786,74.24
-Bolivia,142.9,South America,Developing,0.703,72.35
-Mexico,142.7,North America,Developing,0.767,75.41
-Haiti,142.3,North America,Developing,0.503,64.99
-El Salvador,142.1,North America,Developing,0.667,74.06
-Burundi,141.9,Africa,Developing,0.423,62.71
-Iran,141.6,Asia,Developing,0.797,77.33
-Nicaragua,141.1,North America,Developing,0.651,75.23
-Malaysia,139.9,Asia,Developing,0.804,76.65
-Morocco,139.6,Africa,Developing,0.676,77.43
-Rwanda,136.4,Africa,Developing,0.536,70
-Indonesia,136.2,Asia,Developing,0.707,72.32
-Zambia,136.2,Africa,Developing,0.591,64.7
-Mali,135.5,Africa,Developing,0.427,60.54
-Honduras,134.6,North America,Developing,0.623,75.87
-Belize,132.4,North America,Developing,0.72,75.09
-Tanzania,131.6,Africa,Developing,0.528,66.39
-Mozambique,131.1,Africa,Developing,0.446,62.13
-Myanmar,130.9,Asia,Developing,0.584,67.78
-Algeria,130.8,Africa,Developing,0.759,77.5
-Namibia,129.2,Africa,Developing,0.645,64.86
-Kyrgyzstan,128.8,Asia,Developing,0.674,71.95
-Guatemala,126.9,North America,Developing,0.651,75.05
-Benin,126.2,Africa,Developing,0.52,62.84
-Ghana,125.5,Africa,Developing,0.596,64.94
-Eswatini,125.1,Africa,Developing,0.608,61.05
-Cambodia,124.1,Asia,Developing,0.581,70.54
-Kuwait,121.8,Asia,Developing,0.808,75.85
-Libya,120.3,Africa,Developing,0.708,73.44
-S. Sudan,119.9,Africa,Developing,0.413,58.74
-Senegal,118.7,Africa,Developing,0.514,68.87
-Solomon Islands,118.1,Oceania,Developing,0.557,73.38
-Turkmenistan,117.8,Asia,Developing,0.71,68.63
-Burkina Faso,117.7,Africa,Developing,0.434,62.98
-Maldives,117.1,Asia,Developing,0.719,79.89
-Lesotho,116.8,Africa,Developing,0.518,55.65
-Tunisia,115.4,Africa,Developing,0.739,77.36
-Madagascar,115.3,Africa,Developing,0.521,68.21
-Pakistan,114.1,Asia,Developing,0.56,67.79
-United Arab Emirates,112.5,Asia,Developing,0.866,78.46
-Gabon,111.2,Africa,Developing,0.702,67.03
-Côte d'Ivoire,109.2,Africa,Developing,0.516,58.75
-Cameroon,107.5,Africa,Developing,0.563,60.32
-Angola,107.1,Africa,Developing,0.574,62.22
-Congo,106.6,Africa,Developing,0.608,65.21
-Azerbaijan,106.2,Asia,Developing,0.754,73.33
-Bangladesh,105.7,Asia,Developing,0.614,73.57
-Iraq,105.5,Asia,Developing,0.689,71.08
-Guyana,105.4,South America,Developing,0.67,70.26
-Bahrain,105.2,Asia,Developing,0.838,77.73
-Togo,105.1,Africa,Developing,0.513,62.13
-Liberia,104.1,Africa,Developing,0.465,65
-Vanuatu,104.1,Oceania,Developing,0.597,70.99
-Nigeria,103.8,Africa,Developing,0.534,55.75
-Nepal,103.7,Asia,Developing,0.579,71.74
-Botswana,103.6,Africa,Developing,0.728,69.86
-Oman,103.3,Asia,Developing,0.834,78.58
-Eq. Guinea,101.6,Africa,Developing,0.588,59.82
-Sierra Leone,101.1,Africa,Developing,0.438,55.92
-Guinea,100.5,Africa,Developing,0.466,62.64
-Afghanistan,100.2,Asia,Developing,0.496,65.98
-Comoros,99.8,Africa,Developing,0.538,65.03
-Ethiopia,99.5,Africa,Developing,0.47,67.81
-Mauritania,98.5,Africa,Developing,0.527,65.57
-Eritrea,97.7,Africa,Developing,0.434,67.48
-Qatar,97.3,Asia,Developing,0.848,80.73
-Guinea-Bissau,97.1,Africa,Developing,0.461,59.38
-Sudan,95.9,Africa,Developing,0.507,66.09
-Chad,95.4,Africa,Developing,0.401,55.17
-Central African Rep.,92.4,Africa,Developing,0.381,54.36
-Uzbekistan,91.4,Asia,Developing,0.71,72.04
-India,89.4,Asia,Developing,0.647,70.42
-Saudi Arabia,88.7,Asia,Developing,0.857,75.69
-Sri Lanka,88.1,Asia,Developing,0.78,77.56
-Djibouti,87.9,Africa,Developing,0.495,67.87
-Bhutan,87.8,Asia,Developing,0.617,72.77
-Tajikistan,87.3,Asia,Developing,0.656,71.76
-Timor-Leste,84.3,Asia,Developing,0.626,70.18
-Dem. Rep. Congo,76.9,Africa,Developing,0.459,61.6
-Yemen,76.1,Asia,Developing,0.463,66.44
-Niger,72.6,Africa,Developing,0.377,63.62
-Gambia,57.2,Africa,Developing,0.466,63.26
+﻿Country,Amount,Continent,Development Index,HDI,Life Expectancy,Annotation
+Australia,468.1,Oceania,Developed,0.938,83.94,
+New Zealand,438.1,Oceania,Developed,0.921,82.8,
+Ireland,373.7,Europe,Developed,0.942,82.81,
+Hungary,368.1,Europe,Developed,0.845,77.31,European nations dominate the high life expectancy and cancer rate statistics
+United States of America,352.2,North America,Developed,0.92,79.11,
+Belgium,345.8,Europe,Developed,0.919,82.17,
+France,344.1,Europe,Developed,0.891,83.13,
+Denmark,340.4,Europe,Developed,0.93,81.4,
+Norway,337.8,Europe,Developed,0.954,82.94,
+Netherlands,334.1,Europe,Developed,0.933,82.78,
+Canada,334.1,North America,Developed,0.922,82.96,
+United Kingdom,319.2,Europe,Developed,0.92,81.77,
+South Korea,313.5,Asia,Developed,0.906,83.5,
+Germany,313.1,Europe,Developed,0.939,81.88,
+Switzerland,311.1,Europe,Developed,0.946,84.25,
+Luxembourg,309.3,Europe,Developed,0.909,82.79,
+Serbia,307.8,Europe,Developing,0.799,76.47,
+Slovenia,304.9,Europe,Developed,0.902,81.85,
+Latvia,302.2,Europe,Developed,0.854,75.73,
+Slovakia,297.5,Europe,Developed,0.857,78,
+Czechia,296.7,Europe,Developed,0.891,79.85,
+Sweden,294.7,Europe,Developed,0.937,83.33,
+Italy,290.6,Europe,Developed,0.883,84.01,
+Croatia,287.2,Europe,Developing,0.837,79.02,
+Lithuania,285.8,Europe,Developed,0.869,76.41,
+Estonia,283.3,Europe,Developed,0.882,79.18,
+Greece,279.8,Europe,Developed,0.872,82.8,
+Spain,272.3,Europe,Developed,0.893,83.99,
+Finland,266.3,Europe,Developed,0.925,82.48,
+Uruguay,263.4,South America,Developing,0.808,78.43,
+Belarus,260.7,Europe,Developing,0.817,75.2,
+Portugal,259.5,Europe,Developed,0.85,82.65,
+Iceland,257.8,Europe,Developed,0.938,83.52,
+Moldova,254.3,Europe,Developing,0.711,72.3,
+Poland,253.8,Europe,Developed,0.872,79.27,
+Cyprus,250.8,Asia,Developed,0.873,81.51,
+Malta,249.4,Europe,Developed,0.885,83.06,
+Singapore,248.9,Asia,Developed,0.935,84.07,
+Japan,248.1,Asia,Developed,0.915,85.03,
+Austria,247.7,Europe,Developed,0.914,82.05,
+Barbados,247.5,North America,Developing,0.813,79.64,
+Lebanon,242.8,Asia,Developing,0.73,79.27,
+Bulgaria,242.8,Europe,Developing,0.816,75.49,
+Israel,233.5,Asia,Developed,0.906,83.49,
+Macedonia,230.8,Europe,Developing,0.759,76.26,
+Mongolia,229.2,Asia,Developing,0.735,70.53,
+Turkey,225.1,Asia,Developing,0.806,78.45,
+Romania,222.4,Europe,Developing,0.816,76.5,
+Russia,222.1,Europe,Developing,0.824,72.99,
+Montenegro,221.9,Europe,Developing,0.816,77.39,
+Ukraine,220.9,Europe,Developing,0.75,72.5,
+Bosnia and Herz.,220.3,Europe,Developing,0.769,77.93,
+Brunei,220.2,Asia,Developing,0.845,76.35,
+Argentina,218.1,South America,Developing,0.83,77.17,
+Brazil,217.2,South America,Developing,0.761,76.57,
+Cuba,216.5,North America,Developing,0.778,79.18,
+South Africa,213.5,Africa,Developing,0.705,64.88,
+Samoa,207.4,Oceania,Developing,0.707,73.75,
+Jamaica,203.7,North America,Developing,0.726,74.88,
+Papua New Guinea,202.4,Oceania,Developing,0.543,65.22,
+China,201.7,Asia,Developing,0.758,77.47,
+Costa Rica,197.7,North America,Developing,0.794,80.94,
+Zimbabwe,197.5,Africa,Developing,0.563,62.16,African nations generally have lower life expectancy and cancer rates
+Chile,195.5,South America,Developed,0.847,80.74,
+Armenia,194.8,Asia,Developing,0.76,75.55,
+Peru,192.6,South America,Developing,0.759,77.44,
+Venezuela,187.5,South America,Developing,0.726,72.34,
+Bahamas,181.4,North America,Developing,0.805,74.28,
+Colombia,178.8,South America,Developing,0.761,77.87,
+Trinidad and Tobago,177.4,North America,Developing,0.799,73.91,
+Kenya,175.5,Africa,Developing,0.579,67.47,
+Paraguay,175.5,South America,Developing,0.724,74.59,
+Albania,173.9,Europe,Developing,0.791,78.96,
+Panama,173.1,North America,Developing,0.795,79.1,
+Suriname,172.6,South America,Developing,0.724,72.13,
+Kazakhstan,170.1,Asia,Developing,0.817,73.9,
+Syria,169.9,Asia,Developing,0.549,76.06,
+Malawi,166.3,Africa,Developing,0.485,65.62,
+Fiji,164.1,Oceania,Developing,0.724,67.91,
+Dominican Rep.,163.9,North America,Developing,0.745,74.65,
+Philippines,163.3,Asia,Developing,0.712,71.66,
+Thailand,158.2,Asia,Developing,0.765,77.74,
+Jordan,157.8,Asia,Developing,0.723,75.01,
+Saint Lucia,157.7,North America,Developing,0.745,76.67,
+Ecuador,157.2,South America,Developing,0.758,77.71,
+Egypt,156.9,Africa,Developing,0.7,72.54,
+Laos,154.3,Asia,Developing,0.604,68.89,
+Mauritius,153.2,Africa,Developing,0.796,75.51,
+Uganda,151.4,Africa,Developing,0.528,64.38,
+Vietnam,151.4,Asia,Developing,0.693,75.77,
+Georgia,143.2,Asia,Developing,0.786,74.24,
+Bolivia,142.9,South America,Developing,0.703,72.35,
+Mexico,142.7,North America,Developing,0.767,75.41,
+Haiti,142.3,North America,Developing,0.503,64.99,
+El Salvador,142.1,North America,Developing,0.667,74.06,
+Burundi,141.9,Africa,Developing,0.423,62.71,
+Iran,141.6,Asia,Developing,0.797,77.33,
+Nicaragua,141.1,North America,Developing,0.651,75.23,
+Malaysia,139.9,Asia,Developing,0.804,76.65,
+Morocco,139.6,Africa,Developing,0.676,77.43,
+Rwanda,136.4,Africa,Developing,0.536,70,
+Indonesia,136.2,Asia,Developing,0.707,72.32,
+Zambia,136.2,Africa,Developing,0.591,64.7,
+Mali,135.5,Africa,Developing,0.427,60.54,
+Honduras,134.6,North America,Developing,0.623,75.87,
+Belize,132.4,North America,Developing,0.72,75.09,
+Tanzania,131.6,Africa,Developing,0.528,66.39,
+Mozambique,131.1,Africa,Developing,0.446,62.13,
+Myanmar,130.9,Asia,Developing,0.584,67.78,
+Algeria,130.8,Africa,Developing,0.759,77.5,
+Namibia,129.2,Africa,Developing,0.645,64.86,
+Kyrgyzstan,128.8,Asia,Developing,0.674,71.95,
+Guatemala,126.9,North America,Developing,0.651,75.05,
+Benin,126.2,Africa,Developing,0.52,62.84,
+Ghana,125.5,Africa,Developing,0.596,64.94,
+Eswatini,125.1,Africa,Developing,0.608,61.05,
+Cambodia,124.1,Asia,Developing,0.581,70.54,
+Kuwait,121.8,Asia,Developing,0.808,75.85,
+Libya,120.3,Africa,Developing,0.708,73.44,
+S. Sudan,119.9,Africa,Developing,0.413,58.74,
+Senegal,118.7,Africa,Developing,0.514,68.87,
+Solomon Islands,118.1,Oceania,Developing,0.557,73.38,
+Turkmenistan,117.8,Asia,Developing,0.71,68.63,
+Burkina Faso,117.7,Africa,Developing,0.434,62.98,
+Maldives,117.1,Asia,Developing,0.719,79.89,
+Lesotho,116.8,Africa,Developing,0.518,55.65,
+Tunisia,115.4,Africa,Developing,0.739,77.36,
+Madagascar,115.3,Africa,Developing,0.521,68.21,
+Pakistan,114.1,Asia,Developing,0.56,67.79,
+United Arab Emirates,112.5,Asia,Developing,0.866,78.46,
+Gabon,111.2,Africa,Developing,0.702,67.03,
+Côte d'Ivoire,109.2,Africa,Developing,0.516,58.75,
+Cameroon,107.5,Africa,Developing,0.563,60.32,
+Angola,107.1,Africa,Developing,0.574,62.22,
+Congo,106.6,Africa,Developing,0.608,65.21,
+Azerbaijan,106.2,Asia,Developing,0.754,73.33,
+Bangladesh,105.7,Asia,Developing,0.614,73.57,
+Iraq,105.5,Asia,Developing,0.689,71.08,
+Guyana,105.4,South America,Developing,0.67,70.26,
+Bahrain,105.2,Asia,Developing,0.838,77.73,
+Togo,105.1,Africa,Developing,0.513,62.13,
+Liberia,104.1,Africa,Developing,0.465,65,
+Vanuatu,104.1,Oceania,Developing,0.597,70.99,
+Nigeria,103.8,Africa,Developing,0.534,55.75,
+Nepal,103.7,Asia,Developing,0.579,71.74,
+Botswana,103.6,Africa,Developing,0.728,69.86,
+Oman,103.3,Asia,Developing,0.834,78.58,
+Eq. Guinea,101.6,Africa,Developing,0.588,59.82,
+Sierra Leone,101.1,Africa,Developing,0.438,55.92,
+Guinea,100.5,Africa,Developing,0.466,62.64,
+Afghanistan,100.2,Asia,Developing,0.496,65.98,
+Comoros,99.8,Africa,Developing,0.538,65.03,
+Ethiopia,99.5,Africa,Developing,0.47,67.81,
+Mauritania,98.5,Africa,Developing,0.527,65.57,
+Eritrea,97.7,Africa,Developing,0.434,67.48,
+Qatar,97.3,Asia,Developing,0.848,80.73,
+Guinea-Bissau,97.1,Africa,Developing,0.461,59.38,
+Sudan,95.9,Africa,Developing,0.507,66.09,
+Chad,95.4,Africa,Developing,0.401,55.17,
+Central African Rep.,92.4,Africa,Developing,0.381,54.36,
+Uzbekistan,91.4,Asia,Developing,0.71,72.04,
+India,89.4,Asia,Developing,0.647,70.42,
+Saudi Arabia,88.7,Asia,Developing,0.857,75.69,
+Sri Lanka,88.1,Asia,Developing,0.78,77.56,
+Djibouti,87.9,Africa,Developing,0.495,67.87,
+Bhutan,87.8,Asia,Developing,0.617,72.77,
+Tajikistan,87.3,Asia,Developing,0.656,71.76,
+Timor-Leste,84.3,Asia,Developing,0.626,70.18,
+Dem. Rep. Congo,76.9,Africa,Developing,0.459,61.6,
+Yemen,76.1,Asia,Developing,0.463,66.44,
+Niger,72.6,Africa,Developing,0.377,63.62,
+Gambia,57.2,Africa,Developing,0.466,63.26,
